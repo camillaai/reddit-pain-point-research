@@ -1,0 +1,5 @@
+name: "reddit_pain_point_research"
+title: "Reddit Pain Point Research"
+description: "Find recurring user pain points from public discussions, Reddit first, with cited evidence and an approved outline, without using the Reddit API."
+category: "Work and knowledge"
+include_in_prompt: false
