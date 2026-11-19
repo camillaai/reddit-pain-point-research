@@ -1,4 +1,4 @@
-<img src="logo.png" width="320" alt="Reddit Pain Point Research logo">
+<img src="logo-mark.svg" width="180" alt="Reddit Pain Point Research logo">
 
 # Reddit Pain Point Research
 
@@ -10,8 +10,8 @@ This repo contains one thing: a skill (`skill/`). A skill is a
 workflow any assistant that can search the web and open pages can
 follow. It works on its own.
 
-The baby-products run in `examples/` is the one worked example. The
-skill itself is not baby-specific.
+There are two worked examples in `examples/` — baby products and
+open houses. The skill itself is not topic-specific.
 
 ## What this is not
 
@@ -151,8 +151,8 @@ evidence.
 ```
 README.md                  This file.
 LICENSE                    MIT License.
-logo.png                   Logo lockup (mark + name).
-logo-mark.png              Square logo mark.
+logo.svg                   Logo with wordmark (vector).
+logo-mark.svg              Logo mark, square badge (vector).
 skill/
   SKILL.md                 The workflow (general).
   skill.yaml               Skill metadata.

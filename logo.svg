@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1839">
+  <rect width="1600" height="1839" fill="#ffffff"/>
+  <g transform="translate(160,60) scale(0.8)">
+    <rect x="165" y="115" width="1270" height="1340" rx="200" fill="#FF4500"/>
+    <rect x="345" y="745" width="595" height="345" rx="80" fill="#ffffff"/>
+    <path d="M 430 1040 C 450 1130, 460 1190, 478 1232 C 510 1180, 550 1120, 595 1060 Z" fill="#ffffff"/>
+    <rect x="1010" y="485" width="295" height="360" rx="80" fill="#ffffff"/>
+    <path d="M 1115 820 C 1125 880, 1140 920, 1155 950 C 1175 910, 1195 870, 1215 820 Z" fill="#ffffff"/>
+    <line x1="960" y1="885" x2="1290" y2="1215" stroke="#ffffff" stroke-width="72" stroke-linecap="round"/>
+    <circle cx="800" cy="720" r="255" fill="#FF4500" stroke="#ffffff" stroke-width="60"/>
+    <path d="M 1120 520 C 1090 470, 1048 430, 1048 375 A 72 72 0 1 1 1192 375 C 1192 430, 1150 470, 1120 520 Z" fill="#ffffff"/>
+    <circle cx="1120" cy="375" r="34" fill="#FF4500"/>
+    <path d="M 1108 498 L 1132 498 L 1120 528 Z" fill="#FF4500"/>
+  </g>
+  <text x="800" y="1560" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="bold" fill="#1A1A1B">Reddit Pain Point Research</text>
+  <text x="800" y="1700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" fill="#666666">Find recurring pain points from public discussions</text>
+</svg>
