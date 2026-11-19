@@ -1,3 +1,5 @@
+<img src="logo.png" width="320" alt="Reddit Pain Point Research logo">
+
 # Reddit Pain Point Research
 
 Find recurring user pain points from public discussions — Reddit
@@ -111,6 +113,29 @@ from the report files; the full report is in `examples/`):
 
 ![Example report — clusters](examples/baby-products/report-preview-2.svg)
 
+## Worked example: real estate
+
+`examples/real-estate/` holds a second worked example, from
+2026-11-19: what real estate agents struggle with at open houses
+and around lead generation, 93 facts kept, 6 clusters. Top
+clusters: paid leads and tools costing more than they return (30
+items, cross-source), open houses eating the weekend with few
+clients (20 items, cross-source), what agents do instead /
+counter-evidence (18 items, cross-source), the follow-up that never
+happens after Sunday (9 items, cross-source), the sign-in sheet as
+a leak point (8 items, cross-source), and social posts not turning
+into clients (8 items, cross-source).
+
+Read the caveats in `examples/real-estate/README.md` before reusing
+any of it. In short: no Reddit thread was opened directly — agent
+words are quoted as printed in opened articles, mostly from
+r/realtors; the NAR 2024 open-house figure used is 4% of buyers
+(yard sign / open house sign) — an 8% figure attributed to open
+houses by one vendor was checked against the NAR report and is a
+misattribution (the 8% is friend, relative, or neighbor). Do not
+quote cluster sizes as prevalence — they count search results kept,
+not agents.
+
 ## Writing a new topic
 
 `topics/baby-products.json` is an example topic plan: the queries
@@ -126,6 +151,8 @@ evidence.
 ```
 README.md                  This file.
 LICENSE                    MIT License.
+logo.png                   Logo lockup (mark + name).
+logo-mark.png              Square logo mark.
 skill/
   SKILL.md                 The workflow (general).
   skill.yaml               Skill metadata.
@@ -136,6 +163,10 @@ examples/
   baby-products/           Worked example output of the 2026-11-12
                            run, with honest caveats in its README,
                            plus two rendered report previews.
+  real-estate/             Worked example output of the 2026-11-19
+                           run (open-house and lead-gen pain
+                           points), with honest caveats in its
+                           README.
 ```
 
 ## About
@@ -154,6 +185,10 @@ The example topic is used on Instagram at
 [Shop Online Deals](https://shoponlinedeals.wixsite.com/2023). Those
 pages are not part of this repo; the research evidence for the
 example run is in `examples/`, not in screenshots.
+
+The author also builds [openhousesheet.com](https://openhousesheet.com)
+(Open House App), a free digital open-house sign-in sheet for real
+estate agents, with AI virtual staging for empty rooms.
 
 ## License
 

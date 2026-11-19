@@ -1,0 +1,2820 @@
+{
+  "clusters": [
+    {
+      "topic": "low_conversion",
+      "label": "Open houses eat the weekend, rarely make the client",
+      "item_count": 20,
+      "confirmed": true,
+      "platforms": [
+        "activerain",
+        "dealmachine",
+        "nar",
+        "neuhaus",
+        "reddit"
+      ],
+      "cross_source": true,
+      "urls": [
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+        "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+        "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+        "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+        "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+        "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+        "https://neuhausre.com/guides/open-house-guide-real-estate/",
+        "https://activerain.com/blogsview/4818192/are-you-ready-to-buy-a-home-or-just-window-shopping-",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://neuhausre.com/guides/open-house-guide-real-estate/"
+      ]
+    },
+    {
+      "topic": "sign_in_leaks",
+      "label": "The sign-in sheet is where leads leak",
+      "item_count": 8,
+      "confirmed": true,
+      "platforms": [
+        "airlnk",
+        "facebook",
+        "instagram",
+        "reallyo",
+        "torontorealtyblog",
+        "youmaximize"
+      ],
+      "cross_source": true,
+      "urls": [
+        "https://www.youmaximize.com/blog/open-house-sign-in-sheet",
+        "https://www.youmaximize.com/blog/open-house-sign-in-sheet",
+        "https://airlnk.com/real-estate-agents-open-house-leads",
+        "https://airlnk.com/real-estate-agents-open-house-leads",
+        "https://www.reallyo.com/free-tools/open-house-sign-in-sheet",
+        "https://torontorealtyblog.com/blog/how-open-is-an-open-house/",
+        "",
+        ""
+      ]
+    },
+    {
+      "topic": "follow_up_dies",
+      "label": "The follow-up that never happens",
+      "item_count": 9,
+      "confirmed": true,
+      "platforms": [
+        "airlnk",
+        "joinbauergroup",
+        "jtek",
+        "konahmedia",
+        "reallyo",
+        "reddit",
+        "youmaximize"
+      ],
+      "cross_source": true,
+      "urls": [
+        "https://www.konahmedia.com/guides/how-to-follow-up-with-open-house-visitors",
+        "https://www.joinbauergroup.com/resources/open-house-leads-new-agent",
+        "https://www.youmaximize.com/blog/open-house-sign-in-sheet",
+        "https://airlnk.com/real-estate-agents-open-house-leads",
+        "https://www.reallyo.com/free-tools/open-house-sign-in-sheet",
+        "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+        "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+        "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+        "https://jtek.app/blog-average-cost-per-real-estate-lead"
+      ]
+    },
+    {
+      "topic": "what_agents_do_instead",
+      "label": "What agents do instead / counter-evidence",
+      "item_count": 18,
+      "confirmed": true,
+      "platforms": [
+        "dealmachine",
+        "facebook",
+        "instagram",
+        "jtek",
+        "nar",
+        "neuhaus",
+        "reddit",
+        "theclose"
+      ],
+      "cross_source": true,
+      "urls": [
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+        "https://neuhausre.com/guides/open-house-guide-real-estate/",
+        "https://www.housingwire.com/articles/35275-is-it-ok-to-gatecrash-a-realtors-open-house/",
+        "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+        "https://www.instagram.com/reel/Dbv7GkTydJx/",
+        "https://www.instagram.com/reel/Daio2V-PH_2/",
+        "https://www.facebook.com/reel/912374448152134/",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://jtek.app/blog-average-cost-per-real-estate-lead",
+        "https://theclose.com/real-estate-instagram-leads/",
+        "https://theclose.com/real-estate-instagram-leads/",
+        "https://theclose.com/real-estate-instagram-leads/"
+      ]
+    },
+    {
+      "topic": "lead_gen_cost",
+      "label": "Paid leads and tools cost more than they return",
+      "item_count": 30,
+      "confirmed": true,
+      "platforms": [
+        "dealmachine",
+        "jtek",
+        "nurtureos",
+        "reddit"
+      ],
+      "cross_source": true,
+      "urls": [
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+        "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+        "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+        "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+        "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+        "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+        "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+        "https://jtek.app/blog-average-cost-per-real-estate-lead",
+        "https://jtek.app/blog-average-cost-per-real-estate-lead",
+        "https://jtek.app/blog-average-cost-per-real-estate-lead",
+        "https://jtek.app/blog-average-cost-per-real-estate-lead",
+        "https://jtek.app/blog-average-cost-per-real-estate-lead",
+        "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+        "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+        "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate"
+      ]
+    },
+    {
+      "topic": "social_no_leads",
+      "label": "Social media posts don't turn into clients",
+      "item_count": 8,
+      "confirmed": true,
+      "platforms": [
+        "amplifiles",
+        "facebook",
+        "instagram",
+        "reddit",
+        "subredditmarketing"
+      ],
+      "cross_source": true,
+      "urls": [
+        "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+        "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+        "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+        "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+        "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+        "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+        "https://www.instagram.com/p/DQ5O9kqjM0a/",
+        "https://www.facebook.com/reel/1016273763589536/"
+      ]
+    }
+  ],
+  "comparison": {
+    "previous_report_date": "2026-11-19",
+    "previous_facts": 44,
+    "new_items": 49,
+    "new_urls": [
+      "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "https://theclose.com/real-estate-instagram-leads/",
+      "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+      "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "https://www.facebook.com/reel/1016273763589536/",
+      "https://www.instagram.com/p/DQ5O9kqjM0a/",
+      "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate"
+    ]
+  },
+  "counter_evidence": [
+    {
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "quote": "Open house - 50% of all buyers used an open house as an information source during the search (Exhibit 3-2, NAR 2024)."
+    },
+    {
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "quote": "50% of all buyers attended at least one open house during their search; roughly 37% of buyers walked through the home they ultimately purchased at an open house before writing an offer."
+    },
+    {
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "quote": "One team tracked 25-30% of sales from open-house activity; a few agents wrote offers from walk-ins - a clear minority, mostly agents with 10+ years and established local brands."
+    },
+    {
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "quote": "An agent on r/realtors gets 50% of his leads from answering questions on local Reddit subs - 20+ clients in 12 months from roughly 30 minutes per day of free engagement."
+    },
+    {
+      "url": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "quote": "I probably averaged about one solid lead per open house... at least an invitation to follow up. (@goosetavo2013)"
+    },
+    {
+      "url": "https://www.housingwire.com/articles/35275-is-it-ok-to-gatecrash-a-realtors-open-house/",
+      "quote": "I'd rather have someone come through my open house with no interest of buying, but being friendly and honest, than someone who thinks they know more about the market and selling process than an agent and wastes my time with verbal offers $100k below ask. (Redditor Scolirk, via HousingWire)"
+    },
+    {
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "quote": "The 71% figure came from a Redfin executive's comment at a conference, not from official NAR data... only 5% reported zero transactions in 2024, and the median agent closed 10 deals. (DealMachine fact-check of its own headline figure.)"
+    },
+    {
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "quote": "To earn $58,100 (median agent GCI): ~6 transactions per year, or one every two months. Industry conversion data suggests agents need roughly 50-100 contacts to generate one closing from outbound prospecting - the math works when the activity happens."
+    },
+    {
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "quote": "Sphere / referrals: Effectively free at acquisition. Convert at 15-25%. The cheapest closed deal in the business."
+    },
+    {
+      "url": "https://theclose.com/real-estate-instagram-leads/",
+      "quote": "I took to Instagram to grow my business, and it actually worked. I was attracting clients, and those clients turned into friends... actual leads and closed deals, consistently. (Haley Ingram, Coffee & Contracts - interview, not a measured result.)"
+    }
+  ],
+  "coverage": [
+    {
+      "fetch": "browser-search",
+      "note": "site: operator returned no results for Reddit; the search engine does not handle site: for Reddit. Abandoned; plain-word queries used instead.",
+      "query": "site:reddit.com open house agent pain points",
+      "results_kept": 0,
+      "results_parsed": 0
+    },
+    {
+      "fetch": "browser-search",
+      "note": "Surfaced the DealMachine article, the myRealPage article and ActiveRain results. Exact query strings from this search batch were not preserved in the run notes; topics are recorded here, not invented strings.",
+      "query": "plain-word Reddit queries for r/realtors open-house threads (conversion, sign-in, follow-up, waste of time)",
+      "results_kept": 0,
+      "results_parsed": 0
+    },
+    {
+      "fetch": "browser-search",
+      "note": "Surfaced DealMachine, a Facebook Reel (Kendra Davis), HousingWire, two Instagram Reels and ActiveRain. Did not confirm r/RealEstate as a community: the HousingWire piece quotes a Reddit thread without naming its subreddit.",
+      "query": "reddit r/RealEstate open house buyer frustrated looky loo",
+      "results_kept": 6,
+      "results_parsed": 6
+    },
+    {
+      "fetch": "browser-search",
+      "note": "Surfaced YouMaximize, AirLnk, Reallyo, Konahmedia, joinbauergroup, TorontoRealtyBlog and Neuhaus guides. Exact query strings from this search batch were not preserved in the run notes.",
+      "query": "open house sign-in sheet fake names / open house follow-up same day (guide searches)",
+      "results_kept": 0,
+      "results_parsed": 0
+    },
+    {
+      "fetch": "browser-search",
+      "note": "Surfaced the NAR 2024 Generational Trends PDF on cdn.nar.realtor plus secondary summaries (Neuhaus, ibuyer, showable, digitaltreed). Figures were verified against the NAR PDF itself, not the summaries.",
+      "query": "NAR 2024 open house percent buyers found home / NAR Profile open house",
+      "results_kept": 0,
+      "results_parsed": 0
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 14,
+      "text_excerpt": "Quotes r/realtors threads 'Do Open Houses Sell the House?' (200 comments, 86% upvote), 'Zero Conversion' (39 comments, 91% upvote), 'Are Open Houses Even Worth My Time?' (69 comments), 'As a Newbie, Do Open Houses Get Good Yields?' (72 comments). Cites NAR 2024 Profile as 8% / 51% / 29% - see numbers_quarantined_unusable, this conflicts with the NAR PDF read.",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 5,
+      "text_excerpt": "NAR 2024 Home Buyers and Sellers Generational Trends. Exhibit 3-1: Visited open houses 3% (first step, all buyers). Exhibit 3-2: Open house 50% (information source). Exhibit 3-4: Internet 52%, Real estate agent 28%, Yard sign/open house sign 4% (where buyer found the home purchased). Exhibit 7-8: Open house 54% (methods agent used to market home). Survey: 189,750 mailed July 2023, purchases July 2022-June 2023, 6,817 responses, 3.6% adjusted response rate.",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 3,
+      "text_excerpt": "Only 4% of home sales are directly attributed to open house signs and events; 50% of all buyers attended at least one open house; roughly 37% walked through the home they ultimately purchased at an open house before writing an offer; 65% of sellers hosted 1-3 open houses in 2024 (49% in 2018, 44% in 2021); 96% of buyers used the internet to begin their search; average buyer views 7 properties, attends 2.6 open houses.",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 3,
+      "text_excerpt": "Most open house sign-in sheets end up in a folder and never turn into a single phone call. Paper drawbacks: messy handwriting, typing it up later. A paper sheet left on the counter lets every visitor read every other visitor's phone number. Follow up within 24 hours, same day if possible.",
+      "url": "https://www.youmaximize.com/blog/open-house-sign-in-sheet"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 3,
+      "text_excerpt": "Visitors who feel forced to sign in tend to write fake numbers. One real email from a willing visitor is worth more than a page of made-up ones. Follow up within a day, by the channel they chose.",
+      "url": "https://airlnk.com/real-estate-agents-open-house-leads"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 2,
+      "text_excerpt": "Everyone can read the rows above theirs. Handwriting. An email address with one unreadable letter is an email that bounces. Retyping. Every row has to be typed up. Follow up the same day.",
+      "url": "https://www.reallyo.com/free-tools/open-house-sign-in-sheet"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 1,
+      "text_excerpt": "Published Nov 8, 2026. The agent who follows up first, with something specific to the house and the conversation, is the one they remember. Sort sign-ins that evening; same-day thank-you before dinner.",
+      "url": "https://www.konahmedia.com/guides/how-to-follow-up-with-open-house-visitors"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 1,
+      "text_excerpt": "Published 2026-09-30. To turn visitors into leads, get permission, collect a sign-in for every visitor, ask one or two friendly questions, and follow up the same day. The follow-up is where most of the value is. Mistakes include letting the sign-in sheet sit for days and skipping the same-day follow-up.",
+      "url": "https://www.joinbauergroup.com/resources/open-house-leads-new-agent"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 1,
+      "text_excerpt": "Published 2013-09-30, author David Fleming. Fake-name habit: 'John Smith', 'Anne Gables' as standard fake sign-in names; agents demanding ID.",
+      "url": "https://torontorealtyblog.com/blog/how-open-is-an-open-house/"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 4,
+      "text_excerpt": "Reddit comments quoted, noted as edited sparingly for clarity. @oldmackysbackintown: The money is in the follow-up. @therealrealestate: 99% chance the people coming to an open house won't buy that house. @goosetavo2013: about one solid lead per open house. @lazyygothh: set the follow up appointment then and there.",
+      "url": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166"
+    },
+    {
+      "fetch": "browser-open",
+      "results_kept": 1,
+      "text_excerpt": "Published 2015-10-06. Reddit user bringonthegore asked about attending open houses as a looky-loo with her 6-year-old daughter. Redditor Scolirk: I'd rather have someone come through my open house with no interest of buying, but being friendly and honest, than someone who thinks they know more about the market and wastes my time with verbal offers $100k below ask. The article does not name the subreddit.",
+      "url": "https://www.housingwire.com/articles/35275-is-it-ok-to-gatecrash-a-realtors-open-house/"
+    },
+    {
+      "fetch": "browser-search",
+      "note": "Surfaced the DealMachine lead-tools article (r/realtors, r/RealEstateTechnology, r/RealEstateAdvice threads), the NurtureOS follow-up-affordability article, and the DealMachine '71%' article. All three opened and read in full.",
+      "query": "real estate agent pain points Reddit Zillow lead cost follow-up ISA",
+      "results_kept": 28,
+      "results_parsed": 28
+    },
+    {
+      "fetch": "browser-search",
+      "note": "Surfaced Jtek cost-per-lead benchmarks, the subredditmarketing rules guide, the Amplifiles social-media article and The Close Instagram interview. All opened and read in full.",
+      "query": "real estate cost per lead 2026 Reddit rules social media Instagram leads",
+      "results_kept": 19,
+      "results_parsed": 19
+    },
+    {
+      "fetch": "browser-search",
+      "note": "Surfaced the Justin Havre Instagram carousel (NAR 2025 social-media figures) and the Ruckman Facebook Reel (agents quitting after 10-15 videos). Both kept as search-result snippets only; posts not opened.",
+      "query": "real estate agent Instagram reels no leads quitting social media prospecting",
+      "results_kept": 2,
+      "results_parsed": 2
+    },
+    {
+      "fetch": "browser-search",
+      "note": "r/RealEstateMarketing confirmed to exist (named as an agent-to-agent marketing-ideas community), but no quotable thread content from it was found. The one search hit mentioning it was a vendor Medium piece (Autoreel) with unsourced stats; its '78% of agents' figure is quarantined, not used.",
+      "query": "r/RealEstateMarketing agent marketing ideas threads",
+      "results_kept": 0,
+      "results_parsed": 0
+    },
+    {
+      "fetch": "browser-search",
+      "note": "r/marketing returned no real-estate-agent threads. The marketing-in-general angle was covered instead via Amplifiles, The Close and the Havre/Ruckman posts.",
+      "query": "r/marketing real estate agent lead generation",
+      "results_kept": 0,
+      "results_parsed": 0
+    },
+    {
+      "fetch": "browser-search",
+      "note": "r/RealEstate confirmed: 2,524,159 members, rules read 7 November 2026 (subredditmarketing). It bans promotion, marketing, lead generation and market research, so no agent pain-point threads come from it - the ban itself is the fact kept.",
+      "query": "r/RealEstate members rules promotion ban",
+      "results_kept": 1,
+      "results_parsed": 1
+    }
+  ],
+  "date": "2026-11-19",
+  "evidence_level": "Mixed: 55 facts from pages opened and read in full (18 pages); 30 facts are Reddit words quoted in an opened article (thread itself not opened; dates/upvotes as reported by the quoting article); 8 facts are search-result snippets only, dates/upvotes unverified.",
+  "facts": [
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article (68 upvotes as printed there). Thread itself not opened; date unverified.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "The industry secret about open houses is that the purpose of them is for us realtors to encounter new potential clients... roughly one or two sales of the subject property per year",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "The industry secret about open houses is that the purpose of them is for us realtors to encounter new potential clients... roughly one or two sales of the subject property per year (68 upvotes). Thread: Do Open Houses Sell the House? (200 comments, 86% upvote).",
+      "source": "opened-article-quote",
+      "title": "r/realtors: the industry secret about open houses",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article (23 upvotes as printed there). Thread itself not opened; date unverified.",
+      "matched_topics": [
+        "low_conversion",
+        "sign_in_leaks"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "I've done probably 30 open houses in the past two years, maybe more. Not a single client. It's almost impossible to get people to sign in, if anyone even shows up.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "I've done probably 30 open houses in the past two years, maybe more. Not a single client. It's almost impossible to get people to sign in, if anyone even shows up. (23 upvotes).",
+      "source": "opened-article-quote",
+      "title": "r/realtors: 30 open houses, not a single client",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article. Thread itself not opened; upvotes and date unverified.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "Things work differently for different people. I've been an agent 10+ years. Never have I ever gotten a transaction from an open house or door knocking.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "Things work differently for different people. I've been an agent 10+ years. Never have I ever gotten a transaction from an open house or door knocking.",
+      "source": "opened-article-quote",
+      "title": "r/realtors: 10+ years, never a transaction from an open house",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article. Thread itself not opened; upvotes and date unverified.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "99% of the people who come into the open house are not ready to buy. More than half are just looking, are neighbors, or are wishful shopping.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "99% of the people who come into the open house are not ready to buy. More than half are just looking, are neighbors, or are wishful shopping.",
+      "source": "opened-article-quote",
+      "title": "r/realtors: 99% are not ready to buy",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article (6 upvotes as printed there). Thread itself not opened; date unverified.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "In the 500 homes I've sold, only 2 have sold because the client came to the open house.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "In the 500 homes I've sold, only 2 have sold because the client came to the open house. (6 upvotes).",
+      "source": "opened-article-quote",
+      "title": "r/realtors: 500 homes sold, only 2 from open houses",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article. Thread itself not opened; upvotes and date unverified.",
+      "matched_topics": [
+        "low_conversion",
+        "what_agents_do_instead"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "I still do them because it keeps me in the practice of talking about real estate to strangers... Waiting for the day I get a client from one. It's been almost 4 years.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "I still do them because it keeps me in the practice of talking about real estate to strangers... Waiting for the day I get a client from one. It's been almost 4 years.",
+      "source": "opened-article-quote",
+      "title": "r/realtors: still doing them for the practice, almost 4 years",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article (18 upvotes as printed there). Thread itself not opened; date unverified.",
+      "matched_topics": [
+        "low_conversion",
+        "what_agents_do_instead"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "I find them a waste of time but will do them to appease my sellers if they want one.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "I find them a waste of time but will do them to appease my sellers if they want one. (18 upvotes).",
+      "source": "opened-article-quote",
+      "title": "r/realtors: a waste of time, done to appease sellers",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article. Thread itself not opened; upvotes and date unverified.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "Open houses don't sell houses.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "Open houses don't sell houses. (A 30-year veteran's mentor, quoted in the thread.)",
+      "source": "opened-article-quote",
+      "title": "r/realtors: open houses don't sell houses",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article. Thread itself not opened; upvotes and date unverified.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "Open homes sell the agent, not the house.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "Open homes sell the agent, not the house. (Echoed in multiple threads, per the article.)",
+      "source": "opened-article-quote",
+      "title": "r/realtors: open homes sell the agent, not the house",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Thread titles and comment counts as printed in the opened DealMachine article. Threads themselves not opened; counts not verified against Reddit.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "Do Open Houses Sell the House? - 200 comments, 86% upvote. Zero Conversion - 39 comments, 91% upvote. Are Open Houses Even Worth My Time? - 69 comments. As a Newbie, Do Open Houses Get Good Yields? - 72 comments.",
+      "quoted_in": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "snippet": "Do Open Houses Sell the House? (200 comments, 86% upvote). Zero Conversion (39 comments, 91% upvote). Are Open Houses Even Worth My Time? (69 comments). As a Newbie, Do Open Houses Get Good Yields? (72 comments).",
+      "source": "opened-article-quote",
+      "title": "r/realtors open-house threads: comment counts as printed in the article",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit comment as printed in the opened myRealPage article (notes comments edited sparingly for clarity). Thread itself not opened; upvotes and date unverified.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "realtors on reddit open house secrets (opened article)",
+      "quote": "There's probably a 99% chance the people coming to an open house won't buy that house.",
+      "quoted_in": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "snippet": "There's probably a 99% chance the people coming to an open house won't buy that house. (@therealrealestate, quoted in the myRealPage article; comments edited sparingly for clarity.)",
+      "source": "opened-article-quote",
+      "title": "Reddit @therealrealestate: 99% chance they won't buy that house",
+      "topic": "low_conversion",
+      "url": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit comment as printed in the opened myRealPage article (notes comments edited sparingly for clarity). Thread itself not opened; upvotes and date unverified. This is the best-case conversion reported in the set.",
+      "matched_topics": [
+        "low_conversion",
+        "follow_up_dies"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "realtors on reddit open house secrets (opened article)",
+      "quote": "I probably averaged about one solid lead per open house... at least an invitation to follow up.",
+      "quoted_in": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "snippet": "I probably averaged about one solid lead per open house... at least an invitation to follow up. (@goosetavo2013, quoted in the myRealPage article; comments edited sparingly for clarity.)",
+      "source": "opened-article-quote",
+      "title": "Reddit @goosetavo2013: about one solid lead per open house",
+      "topic": "low_conversion",
+      "url": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "url_missing": false
+    },
+    {
+      "date": "2024",
+      "evidence": "Read in the NAR PDF itself (cdn.nar.realtor). Survey: 189,750 recent buyers mailed July 2023, purchases July 2022-June 2023, 6,817 responses, 3.6% adjusted response rate.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "report-pdf",
+      "platform": "nar",
+      "query": "NAR 2024 open house figures (opened PDF)",
+      "quote": "Visited open houses - 3% of all buyers (Exhibit 3-1, First Step Taken During the Home Buying Process, NAR 2024 Home Buyers and Sellers Generational Trends).",
+      "snippet": "Exhibit 3-1, First Step Taken During the Home Buying Process (Percentage Distribution): Visited open houses - All Buyers 3% (25 to 33: 2%, 34 to 43: 2%, 44 to 58: 3%, 59 to 68: 2%, 69 to 77: 4%, 78 to 98: 2%). Looked online for properties for sale was first at 41%; contacted a real estate agent 20%.",
+      "source": "opened-page",
+      "title": "NAR 2024 Exhibit 3-1: visited open houses as first step, 3%",
+      "topic": "low_conversion",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "url_missing": false
+    },
+    {
+      "date": "2024",
+      "evidence": "Read in the NAR PDF itself (cdn.nar.realtor). Note: this 4% for yard sign/open house sign conflicts with the 8% figure DealMachine attributes to the NAR 2024 Profile; see numbers_quarantined_unusable.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "report-pdf",
+      "platform": "nar",
+      "query": "NAR 2024 open house figures (opened PDF)",
+      "quote": "Yard sign/open house sign - 4% of all buyers found the home they purchased this way; Internet 52%; real estate agent 28% (Exhibit 3-4, NAR 2024).",
+      "snippet": "Exhibit 3-4, Where Buyer Found the Home They Purchased (Percentage Distribution): Internet 52%, Real estate agent 28%, Yard sign/open house sign 4%, Friend, relative or neighbor 8%, Home builder or their agent 6%, Directly from sellers / knew the sellers 3%.",
+      "source": "opened-page",
+      "title": "NAR 2024 Exhibit 3-4: where buyers found the home they purchased",
+      "topic": "low_conversion",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "url_missing": false
+    },
+    {
+      "date": "2024",
+      "evidence": "Read in the NAR PDF itself (cdn.nar.realtor).",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "report-pdf",
+      "platform": "nar",
+      "query": "NAR 2024 open house figures (opened PDF)",
+      "quote": "Open house - 54% of sellers who used an agent had their agent use an open house to market the home (Exhibit 7-8, NAR 2024).",
+      "snippet": "Exhibit 7-8, Methods Real Estate Agent Used to Market Home (Percent of Respondents Among Sellers Who Used an Agent): Open house - All Sellers 54%. MLS website 85%, yard sign 60%.",
+      "source": "opened-page",
+      "title": "NAR 2024 Exhibit 7-8: open house as a marketing method, 54%",
+      "topic": "low_conversion",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "url_missing": false
+    },
+    {
+      "date": "2024",
+      "evidence": "Read in the NAR PDF itself (cdn.nar.realtor).",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "report-pdf",
+      "platform": "nar",
+      "query": "NAR 2024 open house figures (opened PDF)",
+      "quote": "Median buyer viewed 7 homes over a 10-week search (Exhibit 3-3, NAR 2024).",
+      "snippet": "Exhibit 3-3, Length of Search (Medians): Number of homes viewed - All Buyers 7. Number of weeks searched - 10.",
+      "source": "opened-page",
+      "title": "NAR 2024 Exhibit 3-3: median search, 7 homes in 10 weeks",
+      "topic": "low_conversion",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Read in the opened Neuhaus guide. Neuhaus's own wording; the 4% matches the NAR Exhibit 3-4 figure for yard sign/open house sign, but the guide does not cite NAR for it in the passage read.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "guide",
+      "platform": "neuhaus",
+      "query": "open house guide real estate (opened page)",
+      "quote": "Only 4% of home sales are directly attributed to open house signs and events.",
+      "snippet": "Only 4% of home sales are directly attributed to open house signs and events.",
+      "source": "opened-page",
+      "title": "Neuhaus: only 4% of home sales directly attributed to open houses",
+      "topic": "low_conversion",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Search-result snippet only; page not opened; date unverified.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "blog-post",
+      "platform": "activerain",
+      "query": "reddit r/RealEstate open house buyer frustrated looky loo",
+      "quote": "Open houses are a waste of time for a seller. Less than 2-3% of homes sell as a result of an open house.",
+      "snippet": "Bill Gassett: Open houses are a waste of time for a seller. Kyle Hiscock: less than 2-3% of homes sell as a result of an open house. (Search-result summary; page not opened.)",
+      "source": "search-snippet",
+      "title": "ActiveRain: open houses a waste of time for a seller; under 2-3% sell",
+      "topic": "low_conversion",
+      "url": "https://activerain.com/blogsview/4818192/are-you-ready-to-buy-a-home-or-just-window-shopping-",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Read in the opened DealMachine article. DealMachine's own calculation; no primary source cited for it in the article. Do not present as a measured industry figure.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "quote": "The average agent spends 300+ hours per year hosting open houses and converts fewer than 5 clients from the effort.",
+      "snippet": "The average agent spends 300+ hours per year hosting open houses and converts fewer than 5 clients from the effort. (DealMachine's own math in the article; no primary source cited for these two numbers in the passage read.)",
+      "source": "opened-page",
+      "title": "DealMachine: 300+ hours a year, fewer than 5 clients",
+      "topic": "low_conversion",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Read in the opened Neuhaus guide. Neuhaus's own figures; no primary source cited for them in the passage read.",
+      "matched_topics": [
+        "low_conversion"
+      ],
+      "page_kind": "guide",
+      "platform": "neuhaus",
+      "query": "open house guide real estate (opened page)",
+      "quote": "65% of sellers hosted 1-3 open houses in 2024; 96% of buyers used the internet to begin their search; average buyer views 7 properties, attends 2.6 open houses.",
+      "snippet": "65% of sellers hosted 1-3 open houses in 2024 (49% in 2018, 44% in 2021); 96% of buyers used the internet to begin their search; average buyer views 7 properties, attends 2.6 open houses.",
+      "source": "opened-page",
+      "title": "Neuhaus: most sellers still host open houses; buyers search online first",
+      "topic": "low_conversion",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "url_missing": false
+    },
+    {
+      "url": "https://www.youmaximize.com/blog/open-house-sign-in-sheet",
+      "platform": "youmaximize",
+      "page_kind": "guide",
+      "title": "YouMaximize: most sign-in sheets end up in a folder",
+      "snippet": "Most open house sign-in sheets end up in a folder and never turn into a single phone call.",
+      "quote": "Most open house sign-in sheets end up in a folder and never turn into a single phone call.",
+      "topic": "sign_in_leaks",
+      "matched_topics": [
+        "sign_in_leaks"
+      ],
+      "source": "opened-page",
+      "query": "open house sign-in sheet guides (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened YouMaximize guide."
+    },
+    {
+      "url": "https://www.youmaximize.com/blog/open-house-sign-in-sheet",
+      "platform": "youmaximize",
+      "page_kind": "guide",
+      "title": "YouMaximize: paper sheets leak privacy and need retyping",
+      "snippet": "Paper drawbacks: messy handwriting, typing it up later. A paper sheet left on the counter lets every visitor read every other visitor's phone number.",
+      "quote": "A paper sheet left on the counter lets every visitor read every other visitor's phone number.",
+      "topic": "sign_in_leaks",
+      "matched_topics": [
+        "sign_in_leaks"
+      ],
+      "source": "opened-page",
+      "query": "open house sign-in sheet guides (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened YouMaximize guide."
+    },
+    {
+      "url": "https://airlnk.com/real-estate-agents-open-house-leads",
+      "platform": "airlnk",
+      "page_kind": "guide",
+      "title": "AirLnk: forced sign-ins get fake numbers",
+      "snippet": "Visitors who feel forced to sign in tend to write fake numbers.",
+      "quote": "Visitors who feel forced to sign in tend to write fake numbers.",
+      "topic": "sign_in_leaks",
+      "matched_topics": [
+        "sign_in_leaks"
+      ],
+      "source": "opened-page",
+      "query": "open house sign-in sheet guides (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened AirLnk guide."
+    },
+    {
+      "url": "https://airlnk.com/real-estate-agents-open-house-leads",
+      "platform": "airlnk",
+      "page_kind": "guide",
+      "title": "AirLnk: one real email beats a page of made-up ones",
+      "snippet": "One real email from a willing visitor is worth more than a page of made-up ones.",
+      "quote": "One real email from a willing visitor is worth more than a page of made-up ones.",
+      "topic": "sign_in_leaks",
+      "matched_topics": [
+        "sign_in_leaks"
+      ],
+      "source": "opened-page",
+      "query": "open house sign-in sheet guides (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened AirLnk guide."
+    },
+    {
+      "url": "https://www.reallyo.com/free-tools/open-house-sign-in-sheet",
+      "platform": "reallyo",
+      "page_kind": "tool-page",
+      "title": "Reallyo: paper sign-in problems",
+      "snippet": "Everyone can read the rows above theirs. Handwriting. An email address with one unreadable letter is an email that bounces. Retyping. Every row has to be typed up.",
+      "quote": "Everyone can read the rows above theirs. Handwriting. An email address with one unreadable letter is an email that bounces. Retyping. Every row has to be typed up.",
+      "topic": "sign_in_leaks",
+      "matched_topics": [
+        "sign_in_leaks"
+      ],
+      "source": "opened-page",
+      "query": "open house sign-in sheet guides (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened Reallyo page."
+    },
+    {
+      "url": "https://torontorealtyblog.com/blog/how-open-is-an-open-house/",
+      "platform": "torontorealtyblog",
+      "page_kind": "blog-post",
+      "title": "TorontoRealtyBlog: John Smith and Anne Gables",
+      "snippet": "Fake-name habit: 'John Smith', 'Anne Gables' as standard fake sign-in names; agents demanding ID.",
+      "quote": "John Smith and Anne Gables are standard fake sign-in names at open houses.",
+      "topic": "sign_in_leaks",
+      "matched_topics": [
+        "sign_in_leaks"
+      ],
+      "source": "opened-page",
+      "query": "open house sign-in fake names (opened page)",
+      "date": "2013-09-30",
+      "url_missing": false,
+      "evidence": "Read in the opened TorontoRealtyBlog post (published 2013-09-30, author David Fleming)."
+    },
+    {
+      "url": "",
+      "platform": "instagram",
+      "page_kind": "reel",
+      "title": "Instagram Reel: Mickey Mouse on the sign-in sheet",
+      "snippet": "On-screen text in the Reel: Name: Mickey Mouse, Address: 123 Love Shack, Email: Disney@disney.com, phone 8675309.",
+      "quote": "Name: Mickey Mouse, Address: 123 Love Shack, Email: Disney@disney.com, phone 8675309",
+      "topic": "sign_in_leaks",
+      "matched_topics": [
+        "sign_in_leaks"
+      ],
+      "source": "search-snippet",
+      "query": "open house sign-in fake names (search results)",
+      "date": "",
+      "url_missing": true,
+      "evidence": "Search-result summary of the Reel only; Reel not opened, post date unverified, Reel URL not captured - no link invented."
+    },
+    {
+      "url": "",
+      "platform": "facebook",
+      "page_kind": "reel",
+      "title": "Facebook Reel: happy Tuesday to all the fake names",
+      "snippet": "Overlaid text: Happy Tuesday! to all the fake names on my Open House sign-in sheets.",
+      "quote": "Happy Tuesday! to all the fake names on my Open House sign-in sheets",
+      "topic": "sign_in_leaks",
+      "matched_topics": [
+        "sign_in_leaks"
+      ],
+      "source": "search-snippet",
+      "query": "open house sign-in fake names (search results)",
+      "date": "",
+      "url_missing": true,
+      "evidence": "Search-result summary of the Reel only; Reel not opened, post date unverified, Reel URL not captured - no link invented."
+    },
+    {
+      "url": "https://www.konahmedia.com/guides/how-to-follow-up-with-open-house-visitors",
+      "platform": "konahmedia",
+      "page_kind": "guide",
+      "title": "Konahmedia: the agent who follows up first is remembered",
+      "snippet": "The agent who follows up first, with something specific to the house and the conversation, is the one they remember. Sort sign-ins that evening; same-day thank-you before dinner.",
+      "quote": "The agent who follows up first, with something specific to the house and the conversation, is the one they remember.",
+      "topic": "follow_up_dies",
+      "matched_topics": [
+        "follow_up_dies"
+      ],
+      "source": "opened-page",
+      "query": "open house follow-up guides (opened page)",
+      "date": "2026-11-08",
+      "url_missing": false,
+      "evidence": "Read in the opened Konahmedia guide (published Nov 8, 2026)."
+    },
+    {
+      "url": "https://www.joinbauergroup.com/resources/open-house-leads-new-agent",
+      "platform": "joinbauergroup",
+      "page_kind": "guide",
+      "title": "Bauer Group: follow up the same day, that is where the value is",
+      "snippet": "To turn visitors into leads, get permission, collect a sign-in for every visitor, ask one or two friendly questions, and follow up the same day. The follow-up is where most of the value is. Mistakes include letting the sign-in sheet sit for days and skipping the same-day follow-up.",
+      "quote": "To turn visitors into leads, get permission, collect a sign-in for every visitor, ask one or two friendly questions, and follow up the same day. The follow-up is where most of the value is.",
+      "topic": "follow_up_dies",
+      "matched_topics": [
+        "follow_up_dies",
+        "sign_in_leaks"
+      ],
+      "source": "opened-page",
+      "query": "open house follow-up guides (opened page)",
+      "date": "2026-09-30",
+      "url_missing": false,
+      "evidence": "Read in the opened joinbauergroup guide (published 2026-09-30)."
+    },
+    {
+      "url": "https://www.youmaximize.com/blog/open-house-sign-in-sheet",
+      "platform": "youmaximize",
+      "page_kind": "guide",
+      "title": "YouMaximize: follow up within 24 hours, same day if possible",
+      "snippet": "Follow up within 24 hours, same day if possible.",
+      "quote": "Follow up within 24 hours, same day if possible.",
+      "topic": "follow_up_dies",
+      "matched_topics": [
+        "follow_up_dies"
+      ],
+      "source": "opened-page",
+      "query": "open house follow-up guides (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened YouMaximize guide."
+    },
+    {
+      "url": "https://airlnk.com/real-estate-agents-open-house-leads",
+      "platform": "airlnk",
+      "page_kind": "guide",
+      "title": "AirLnk: follow up within a day, by the channel they chose",
+      "snippet": "Follow up within a day, by the channel they chose.",
+      "quote": "Follow up within a day, by the channel they chose.",
+      "topic": "follow_up_dies",
+      "matched_topics": [
+        "follow_up_dies"
+      ],
+      "source": "opened-page",
+      "query": "open house follow-up guides (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened AirLnk guide."
+    },
+    {
+      "url": "https://www.reallyo.com/free-tools/open-house-sign-in-sheet",
+      "platform": "reallyo",
+      "page_kind": "tool-page",
+      "title": "Reallyo: follow up the same day",
+      "snippet": "Follow up the same day.",
+      "quote": "Follow up the same day.",
+      "topic": "follow_up_dies",
+      "matched_topics": [
+        "follow_up_dies"
+      ],
+      "source": "opened-page",
+      "query": "open house follow-up guides (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened Reallyo page."
+    },
+    {
+      "url": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "platform": "reddit",
+      "page_kind": "thread (quoted in article)",
+      "title": "Reddit @oldmackysbackintown: the money is in the follow-up",
+      "snippet": "The money is in the follow-up. Not hearing from someone isn't a sign they're not interested, it just means they are busy or not interested YET. (@oldmackysbackintown, quoted in the myRealPage article; comments edited sparingly for clarity.)",
+      "quote": "The money is in the follow-up. Not hearing from someone isn't a sign they're not interested, it just means they are busy or not interested YET.",
+      "topic": "follow_up_dies",
+      "matched_topics": [
+        "follow_up_dies"
+      ],
+      "source": "opened-article-quote",
+      "query": "realtors on reddit open house secrets (opened article)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Reddit comment as printed in the opened myRealPage article (notes comments edited sparingly for clarity). Thread itself not opened; upvotes and date unverified.",
+      "quoted_in": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166"
+    },
+    {
+      "url": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "platform": "reddit",
+      "page_kind": "thread (quoted in article)",
+      "title": "Reddit @lazyygothh: set the follow-up appointment then and there",
+      "snippet": "If anyone comes by who is not represented, try and set the follow up appointment then and there. (@lazyygothh, quoted in the myRealPage article; comments edited sparingly for clarity.)",
+      "quote": "If anyone comes by who is not represented, try and set the follow up appointment then and there.",
+      "topic": "follow_up_dies",
+      "matched_topics": [
+        "follow_up_dies"
+      ],
+      "source": "opened-article-quote",
+      "query": "realtors on reddit open house secrets (opened article)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Reddit comment as printed in the opened myRealPage article (notes comments edited sparingly for clarity). Thread itself not opened; upvotes and date unverified.",
+      "quoted_in": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166"
+    },
+    {
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "page_kind": "article",
+      "title": "DealMachine: the minority who do get sales from open houses",
+      "snippet": "Counter-evidence in the same article: one team tracked 25-30% of sales from open-house activity; a few agents wrote offers from walk-ins - clear minority, mostly agents with 10+ years and established local brands.",
+      "quote": "One team tracked 25-30% of sales from open-house activity; a few agents wrote offers from walk-ins - a clear minority, mostly agents with 10+ years and established local brands.",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead",
+        "low_conversion"
+      ],
+      "source": "opened-page",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened DealMachine article. The article's own reporting; the team is not named and the figure was not independently verified."
+    },
+    {
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "page_kind": "article",
+      "title": "DealMachine: an agent getting half his leads from local Reddit subs",
+      "snippet": "An agent on r/realtors gets 50% of his leads from answering questions on local Reddit subs - 20+ clients in 12 months from roughly 30 minutes per day of free engagement.",
+      "quote": "An agent on r/realtors gets 50% of his leads from answering questions on local Reddit subs - 20+ clients in 12 months from roughly 30 minutes per day of free engagement.",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "source": "opened-page",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened DealMachine article. The article's own reporting; not independently verified."
+    },
+    {
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "page_kind": "report-pdf",
+      "title": "NAR 2024 Exhibit 3-2: half of buyers used an open house as a source",
+      "snippet": "Exhibit 3-2, Information Sources Used in Home Search (Percent of Respondents): Open house - All Buyers 50%. Real estate agent 88%, yard sign 33%.",
+      "quote": "Open house - 50% of all buyers used an open house as an information source during the search (Exhibit 3-2, NAR 2024).",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead",
+        "low_conversion"
+      ],
+      "source": "opened-page",
+      "query": "NAR 2024 open house figures (opened PDF)",
+      "date": "2024",
+      "url_missing": false,
+      "evidence": "Read in the NAR PDF itself (cdn.nar.realtor)."
+    },
+    {
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "page_kind": "guide",
+      "title": "Neuhaus: half attended, about a third walked through their eventual home",
+      "snippet": "50% of all buyers attended at least one open house during their search; roughly 37% of buyers walked through the home they ultimately purchased at an open house before writing an offer.",
+      "quote": "50% of all buyers attended at least one open house during their search; roughly 37% of buyers walked through the home they ultimately purchased at an open house before writing an offer.",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead",
+        "low_conversion"
+      ],
+      "source": "opened-page",
+      "query": "open house guide real estate (opened page)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened Neuhaus guide. Neuhaus's own figures; no primary source cited for them in the passage read. The 50% matches NAR Exhibit 3-2; the 37% was not traced to a primary source."
+    },
+    {
+      "url": "https://www.housingwire.com/articles/35275-is-it-ok-to-gatecrash-a-realtors-open-house/",
+      "platform": "reddit",
+      "page_kind": "thread (quoted in article)",
+      "title": "Reddit via HousingWire: the looky-loo question",
+      "snippet": "Reddit user bringonthegore asked about attending open houses as a looky-loo with her 6-year-old daughter. Agents' advice: do not pose as a buyer, be polite, listen to the pitch. Redditor Scolirk: I'd rather have someone come through my open house with no interest of buying, but being friendly and honest, than someone who thinks they know more about the market and selling process than an agent and wastes my time with verbal offers $100k below ask.",
+      "quote": "I'd rather have someone come through my open house with no interest of buying, but being friendly and honest, than someone who thinks they know more about the market and selling process than an agent and wastes my time with verbal offers $100k below ask.",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead",
+        "low_conversion"
+      ],
+      "source": "opened-article-quote",
+      "query": "reddit open house looky loo etiquette (opened article)",
+      "date": "2015-10-06",
+      "url_missing": false,
+      "evidence": "Reddit quotes as printed in the opened HousingWire article (published 2015-10-06). Thread itself not opened; the article does not name the subreddit, so r/RealEstate is NOT confirmed as the community here.",
+      "quoted_in": "https://www.housingwire.com/articles/35275-is-it-ok-to-gatecrash-a-realtors-open-house/"
+    },
+    {
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "page_kind": "article",
+      "title": "DealMachine: seller-retention tool, not buyer-acquisition tool",
+      "snippet": "Open houses are a seller-retention tool, not a buyer-acquisition tool. They keep your current client happy.",
+      "quote": "Open houses are a seller-retention tool, not a buyer-acquisition tool. They keep your current client happy.",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "source": "opened-page",
+      "query": "r/realtors open-house threads via DealMachine article (opened)",
+      "date": "",
+      "url_missing": false,
+      "evidence": "Read in the opened DealMachine article. DealMachine's own framing, not an agent quote."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dbv7GkTydJx/",
+      "platform": "instagram",
+      "page_kind": "reel",
+      "title": "Instagram @teainmanrealtor: saying goodbye to the looky loos",
+      "snippet": "On-screen text: Saying goodbye to the looky loos who only came to my open house just to see the inside of their neighbor's home. Posted 2026-08-07, 160 likes, 8 comments.",
+      "quote": "Saying goodbye to the looky loos who only came to my open house just to see the inside of their neighbor's home.",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead",
+        "low_conversion"
+      ],
+      "source": "search-snippet",
+      "query": "reddit r/RealEstate open house buyer frustrated looky loo",
+      "date": "2026-08-07",
+      "url_missing": false,
+      "evidence": "Search-result summary of the Reel only; Reel not opened; likes/comments as shown in the search result."
+    },
+    {
+      "url": "https://www.instagram.com/reel/Daio2V-PH_2/",
+      "platform": "instagram",
+      "page_kind": "reel",
+      "title": "Instagram @selzernotes: the looky-loos ate all the free cookies",
+      "snippet": "On-screen text: What i wish i could do when the local looky-loo's leave the open house after eating all the free cookies again. Posted 2026-07-08, 1 like, 1 comment.",
+      "quote": "What i wish i could do when the local looky-loo's leave the open house after eating all the free cookies again.",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead",
+        "low_conversion"
+      ],
+      "source": "search-snippet",
+      "query": "reddit r/RealEstate open house buyer frustrated looky loo",
+      "date": "2026-07-08",
+      "url_missing": false,
+      "evidence": "Search-result summary of the Reel only; Reel not opened; likes/comments as shown in the search result."
+    },
+    {
+      "url": "https://www.facebook.com/reel/912374448152134/",
+      "platform": "facebook",
+      "page_kind": "reel",
+      "title": "Facebook Kendra Davis: the picky visitor and the looky Lous",
+      "snippet": "A realtor recounts a visitor who complained about minor staging details - small closet-door hangers and towels on nightstands. Commenters largely side with the realtor; one commenter labels such visitors looky Lous. Posted 2026-08-24, 16 likes, 6 comments.",
+      "quote": "Small details matter to some buyers - a visitor complained about closet-door hangers and towels on nightstands; commenters called such visitors looky Lous.",
+      "topic": "what_agents_do_instead",
+      "matched_topics": [
+        "what_agents_do_instead",
+        "low_conversion"
+      ],
+      "source": "search-snippet",
+      "query": "reddit r/RealEstate open house buyer frustrated looky loo",
+      "date": "2026-08-24",
+      "url_missing": false,
+      "evidence": "Search-result summary of the Reel only; Reel not opened; likes/comments as shown in the search result."
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article; the article notes its quotes are lightly condensed for clarity. Thread itself not opened; date and upvotes unverified.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "Zillow leads used to be a 6.7 out of 10 from 2015 to 2023. Now they are triple the price and the quality is now a 2.7 out of 10. Fired them last month.",
+      "quoted_in": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "snippet": "Zillow leads used to be a 6.7 out of 10 from 2015 to 2023. Now they are triple the price and the quality is now a 2.7 out of 10. Fired them last month.",
+      "source": "opened-article-quote",
+      "title": "r/realtors: Zillow quality 6.7 to 2.7 while the price tripled",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "The article's own summary of the Reddit threads it read. DealMachine is a vendor (driving-for-dollars tool) and the article pitches its own product.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "Opinion is split but skeptical. Some team leaders still value Zillow's volume, but many solo agents report the math no longer works: leads costing $500 or more each, shared with multiple agents, and converting poorly.",
+      "snippet": "Opinion is split but skeptical. Some team leaders still value Zillow's volume, but many solo agents report the math no longer works: leads costing $500 or more each, shared with multiple agents, and converting poorly.",
+      "source": "opened-page",
+      "title": "DealMachine: opinion on Zillow is split but skeptical",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit comment as printed in the opened DealMachine article; the article notes its quotes are lightly condensed for clarity. Thread itself not opened; date and upvotes unverified.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "At $500 a lead in their zip code, they were looking at $5,000 to $10,000 per closing against an average commission around $10,000. The math just doesn't math.",
+      "quoted_in": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "snippet": "At $500 a lead in their zip code, they were looking at $5,000 to $10,000 per closing against an average commission around $10,000. The math just doesn't math.",
+      "source": "opened-article-quote",
+      "title": "r/realtors: $500 a lead is $5,000-$10,000 per closing",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article (r/RealEstateTechnology). Thread itself not opened; date and upvotes unverified.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "The best CRM is the one that's used. CRMs are more psychological conditioning than anything.",
+      "quoted_in": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "snippet": "The best CRM is the one that's used. CRMs are more psychological conditioning than anything.",
+      "source": "opened-article-quote",
+      "title": "r/RealEstateTechnology: the best CRM is the one that's used",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article; the article does not name the subreddit for this quote. Thread itself not opened; date and upvotes unverified.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "If your list is growing but your close rate isn't, you might be fighting a losing battle with stale information.",
+      "quoted_in": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "snippet": "If your list is growing but your close rate isn't, you might be fighting a losing battle with stale information.",
+      "source": "opened-article-quote",
+      "title": "Reddit: a growing list with a flat close rate is a stale-data problem",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit advice as printed in the opened DealMachine article, which calls it the single most repeated warning in the threads. Thread itself not opened; date and upvotes unverified.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "Whatever you pick, commit to it for at least 90 days. Most agents try something for two weeks, see nothing, and bounce to the next thing.",
+      "quoted_in": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "snippet": "Whatever you pick, commit to it for at least 90 days. Most agents try something for two weeks, see nothing, and bounce to the next thing.",
+      "source": "opened-article-quote",
+      "title": "Reddit: commit to one lead system for at least 90 days",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "The article's own reporting from the Reddit threads it read. DealMachine is a vendor; the article pitches its own product.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "Social ads need $1,500 or more a month before they start to perform.",
+      "snippet": "Social ads need $1,500 or more a month before they start to perform.",
+      "source": "opened-page",
+      "title": "DealMachine: social ads need $1,500+ a month before they perform",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article; the article does not name the subreddit for this quote. Thread itself not opened; date and upvotes unverified.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "Google PPC: she is a fickle bitch, but when she works, she works.",
+      "quoted_in": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "snippet": "Google PPC: she is a fickle bitch, but when she works, she works.",
+      "source": "opened-article-quote",
+      "title": "Reddit: Google PPC is fickle - 'when she works, she works'",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened DealMachine article; the article does not name the subreddit for this quote. Thread itself not opened; date and upvotes unverified.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "Everyone knows a realtor now. The sphere doesn't work the same way for everyone it once did.",
+      "quoted_in": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "snippet": "Everyone knows a realtor now. The sphere doesn't work the same way for everyone it once did.",
+      "source": "opened-article-quote",
+      "title": "Reddit: 'everyone knows a realtor now' - the sphere doesn't work the same",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "The article's own one-line summary of the Reddit threads it read (r/realtors, r/RealEstateTechnology, r/RealEstateAdvice).",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "For sellers, it is expireds, FSBOs, Google PPC, open houses, and referrals. For tools, it is REDX, Mojo, or Vulcan7 to dial and Follow Up Boss or Wise Agent to organize.",
+      "snippet": "For sellers, it is expireds, FSBOs, Google PPC, open houses, and referrals. For tools, it is REDX, Mojo, or Vulcan7 to dial and Follow Up Boss or Wise Agent to organize.",
+      "source": "opened-page",
+      "title": "DealMachine: the most recommended lead sources are expireds, FSBOs, PPC, open houses, referrals",
+      "topic": "what_agents_do_instead",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "The article's reporting of a Reddit commenter; the comment itself is not quoted verbatim. Thread itself not opened.",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "r/realtors + r/RealEstateTechnology + r/RealEstateAdvice lead-gen threads via DealMachine article (opened)",
+      "quote": "One Reddit commenter said four to six open houses a week launched his career.",
+      "snippet": "One Reddit commenter said four to six open houses a week launched his career.",
+      "source": "opened-page",
+      "title": "DealMachine: four to six open houses a week launched one agent's career",
+      "topic": "what_agents_do_instead",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened NurtureOS article (r/realtors, 107 comments, as printed there; 'payed' spelled as printed). Thread itself not opened; date unverified. NurtureOS is a vendor (lead-nurture tool) and the article argues for its own model.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology follow-up affordability threads via NurtureOS article (opened)",
+      "quote": "I did 5 transactions and made $27k. After all was payed out, it was more like $12k.",
+      "quoted_in": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "snippet": "I did 5 transactions and made $27k. After all was payed out, it was more like $12k.",
+      "source": "opened-article-quote",
+      "title": "r/realtors: first-year agent made $27k, kept about $12k",
+      "topic": "lead_gen_cost",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit thread as printed in the opened NurtureOS article (r/realtors, comment and upvote counts as printed there). Thread itself not opened; date unverified.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology follow-up affordability threads via NurtureOS article (opened)",
+      "quote": "I haven't closed a real estate deal since November, it's March and I'm losing my mind. (187 comments; top comment, 85 upvotes: 'Wow. Did I write this???')",
+      "quoted_in": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "snippet": "I haven't closed a real estate deal since November, it's March and I'm losing my mind. (187 comments; top comment, 85 upvotes: 'Wow. Did I write this???')",
+      "source": "opened-article-quote",
+      "title": "r/realtors: 'I haven't closed a deal since November, it's March and I'm losing my mind'",
+      "topic": "lead_gen_cost",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened NurtureOS article (r/RealEstateTechnology, 84 comments, as printed there). Thread itself not opened; date unverified.",
+      "matched_topics": [
+        "follow_up_dies"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "r/realtors + r/RealEstateTechnology follow-up affordability threads via NurtureOS article (opened)",
+      "quote": "I've realized it's just as expensive, if not more, to re-engage your current database rather than just create new leads... I could add $1m+ revenue a year if properly engaged.",
+      "quoted_in": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "snippet": "I've realized it's just as expensive, if not more, to re-engage your current database rather than just create new leads... I could add $1m+ revenue a year if properly engaged.",
+      "source": "opened-article-quote",
+      "title": "r/RealEstateTechnology: 120,000 leads in Follow Up Boss, re-engagement costs as much as new leads",
+      "topic": "follow_up_dies",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Figures as reported by NurtureOS, citing the NAR 2025 Member Profile - not read from NAR.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "nurtureos",
+      "query": "r/realtors + r/RealEstateTechnology follow-up affordability threads via NurtureOS article (opened)",
+      "quote": "The median agent across all experience levels nets $36,600 after taxes and expenses, with a total annual business expense budget of $8,010. Agents with 0-2 years of experience earn a median gross income of $8,100 and close 3 transactions. The bottom 80% of agents average 3.5 transactions per year; the top 20% do 65% of the transactions. The median agent earns $58,100 gross.",
+      "snippet": "The median agent across all experience levels nets $36,600 after taxes and expenses, with a total annual business expense budget of $8,010. Agents with 0-2 years of experience earn a median gross income of $8,100 and close 3 transactions. The bottom 80% of agents average 3.5 transactions per year; the top 20% do 65% of the transactions. The median agent earns $58,100 gross.",
+      "source": "opened-page",
+      "title": "NurtureOS: median agent nets $36,600; new agents $8,100; bottom 80% average 3.5 deals",
+      "topic": "lead_gen_cost",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Figures as reported by NurtureOS, citing the NAR 2025 Member Profile; the Fello.ai line is the article's own math. Not read from NAR.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "nurtureos",
+      "query": "r/realtors + r/RealEstateTechnology follow-up affordability threads via NurtureOS article (opened)",
+      "quote": "24% of agents spend more than $500 per month on technology. 19% spend more than $500 per month on lead generation. A first-year agent earning $8,100 gross cannot allocate $165/month to Fello.ai without committing 24% of gross income to a single database monitoring tool.",
+      "snippet": "24% of agents spend more than $500 per month on technology. 19% spend more than $500 per month on lead generation. A first-year agent earning $8,100 gross cannot allocate $165/month to Fello.ai without committing 24% of gross income to a single database monitoring tool.",
+      "source": "opened-page",
+      "title": "NurtureOS: 24% spend $500+/month on tech; Fello.ai at $165/month is 24% of a new agent's gross",
+      "topic": "lead_gen_cost",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Costs and conversion rates as reported by NurtureOS, citing NAR 2025 Member Profile, LabCoat Agents and Realty-AI - not read from those sources. NurtureOS sells a lead-nurture product.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "nurtureos",
+      "query": "r/realtors + r/RealEstateTechnology follow-up affordability threads via NurtureOS article (opened)",
+      "quote": "An in-house ISA costs $55,000-$65,000 per year in total compensation - $75,000-$85,000 in year one when recruiting, training, and a 90-120 day ramp period are included. Virtual ISA services start at $720/month. Professional follow-up solutions - in-house ISAs at $55,000-$85,000/year, virtual ISAs at $720-$1,988/month, automation tools at $165-$999/month - are priced for teams earning $150,000+ in gross commission income. Agents without ISA support convert 0-1% of leads; agents with ISA support convert 5-7%.",
+      "snippet": "An in-house ISA costs $55,000-$65,000 per year in total compensation - $75,000-$85,000 in year one when recruiting, training, and a 90-120 day ramp period are included. Virtual ISA services start at $720/month. Professional follow-up solutions - in-house ISAs at $55,000-$85,000/year, virtual ISAs at $720-$1,988/month, automation tools at $165-$999/month - are priced for teams earning $150,000+ in gross commission income. Agents without ISA support convert 0-1% of leads; agents with ISA support convert 5-7%.",
+      "source": "opened-page",
+      "title": "NurtureOS: ISA-level follow-up costs more than the median agent's whole expense budget",
+      "topic": "lead_gen_cost",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "The article's own framing. Structurely and MyOutDesk prices as printed in the article.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "nurtureos",
+      "query": "r/realtors + r/RealEstateTechnology follow-up affordability threads via NurtureOS article (opened)",
+      "quote": "An agent netting $12,000 in year one is not evaluating $499/month Structurely subscriptions or $1,988/month MyOutDesk virtual ISAs.",
+      "snippet": "An agent netting $12,000 in year one is not evaluating $499/month Structurely subscriptions or $1,988/month MyOutDesk virtual ISAs.",
+      "source": "opened-page",
+      "title": "NurtureOS: an agent netting $12,000 is not evaluating $499/month Structurely",
+      "topic": "lead_gen_cost",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "The article's own fact-check; NAR figures as reported by DealMachine, citing the NAR 2025 Member Profile - not read from NAR.",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "The 71% figure came from a Redfin executive's comment at a conference, not from official NAR data. It counts every active license in every MLS - including part-time holders, referral-only agents, administrators, and retirees who haven't let their license lapse. NAR's own 2025 Member Profile, which surveys active, dues-paying Realtors, found that only 5% reported zero transactions in 2024, and the median agent closed 10 deals.",
+      "snippet": "The 71% figure came from a Redfin executive's comment at a conference, not from official NAR data. It counts every active license in every MLS - including part-time holders, referral-only agents, administrators, and retirees who haven't let their license lapse. NAR's own 2025 Member Profile, which surveys active, dues-paying Realtors, found that only 5% reported zero transactions in 2024, and the median agent closed 10 deals.",
+      "source": "opened-page",
+      "title": "DealMachine: the '71% sold zero homes' figure is not NAR data",
+      "topic": "what_agents_do_instead",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Projection as reported by DealMachine, attributed to NAR leadership - not read from NAR.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "NAR leadership projects that membership will fall from approximately 1.53 million (October 2024) to roughly 1.2 million by the end of 2026 - a loss of more than 325,000 agents in under 24 months. This would be the largest industry contraction since the 2008 financial crisis.",
+      "snippet": "NAR leadership projects that membership will fall from approximately 1.53 million (October 2024) to roughly 1.2 million by the end of 2026 - a loss of more than 325,000 agents in under 24 months. This would be the largest industry contraction since the 2008 financial crisis.",
+      "source": "opened-page",
+      "title": "DealMachine: NAR projects membership to fall by 325,000+ by end of 2026",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Figures as reported by DealMachine, citing Relitix MLS data - not read from Relitix.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "According to research from Relitix, which tracks MLS transaction data nationally, approximately 49% of agents who had their first closing in 2022 failed to close a single transaction in 2023. This is a significant increase from the 37% first-year failure rate for agents who started in 2021 and the average 28% failure rate between 2017 and 2020. When measured through year two, total attrition for agents who started in 2021 exceeded 50%, and the projected two-year failure rate for 2022 starters could top 65%.",
+      "snippet": "According to research from Relitix, which tracks MLS transaction data nationally, approximately 49% of agents who had their first closing in 2022 failed to close a single transaction in 2023. This is a significant increase from the 37% first-year failure rate for agents who started in 2021 and the average 28% failure rate between 2017 and 2020. When measured through year two, total attrition for agents who started in 2021 exceeded 50%, and the projected two-year failure rate for 2022 starters could top 65%.",
+      "source": "opened-page",
+      "title": "DealMachine: about half of 2022's first closers closed nothing in 2023 (Relitix)",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Figures as reported by DealMachine, citing the NAR 2025 Member Profile - not read from NAR.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "The median gross income for NAR members was $58,100 in 2024 (the most recent full-year data), up from $55,800 the year before. However, income varies dramatically by experience level. Agents with 16 or more years of experience earned a median of $92,500, while agents with two years or less earned a median net income of just $7,500 after expenses.",
+      "snippet": "The median gross income for NAR members was $58,100 in 2024 (the most recent full-year data), up from $55,800 the year before. However, income varies dramatically by experience level. Agents with 16 or more years of experience earned a median of $92,500, while agents with two years or less earned a median net income of just $7,500 after expenses.",
+      "source": "opened-page",
+      "title": "DealMachine: median GCI $58,100; 16+ years $92,500; two years or less nets $7,500",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Figures as reported by DealMachine, citing the NAR 2025 Member Profile - not read from NAR.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "The median member age is 57 (was 55). The under-40 share fell from 17% to 11%. Agents 60 and older are now 44% of members (was 35%).",
+      "snippet": "The median member age is 57 (was 55). The under-40 share fell from 17% to 11%. Agents 60 and older are now 44% of members (was 35%).",
+      "source": "opened-page",
+      "title": "DealMachine: median member age 57; under-40 share fell to 11%",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Figures as reported by DealMachine, citing the NAR 2025 Member Profile - not read from NAR.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "60% of agents prospect daily, but only 26% spend more than an hour a day on it. Repeat clients (20%) plus referrals (21%) accounted for 41% of business.",
+      "snippet": "60% of agents prospect daily, but only 26% spend more than an hour a day on it. Repeat clients (20%) plus referrals (21%) accounted for 41% of business.",
+      "source": "opened-page",
+      "title": "DealMachine: 60% prospect daily but only 26% for more than an hour; 41% of business is repeat + referrals",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Math as printed in the article; the home-price figure is attributed by the article to NAR, March 2026 - not read from NAR.",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "The median home price in the U.S. is approximately $408,800 (NAR, March 2026). At a 2.5% commission, that's roughly $10,220 per side. After a 70/30 split with your brokerage, you keep about $7,154 per transaction. To earn $58,100 (median agent GCI): ~6 transactions per year, or one every two months.",
+      "snippet": "The median home price in the U.S. is approximately $408,800 (NAR, March 2026). At a 2.5% commission, that's roughly $10,220 per side. After a 70/30 split with your brokerage, you keep about $7,154 per transaction. To earn $58,100 (median agent GCI): ~6 transactions per year, or one every two months.",
+      "source": "opened-page",
+      "title": "DealMachine: the median-deal math - about 6 deals a year earns the $58,100 median",
+      "topic": "what_agents_do_instead",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "The article's own framing and worked example.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "Stop measuring leads. Start measuring cost per closed deal. An agent paying $50 per lead who needs 100 leads to close one deal is spending $5,000 per transaction. An agent paying $200 per lead who closes one in three is spending $600. The 'cheap' leads are eight times more expensive.",
+      "snippet": "Stop measuring leads. Start measuring cost per closed deal. An agent paying $50 per lead who needs 100 leads to close one deal is spending $5,000 per transaction. An agent paying $200 per lead who closes one in three is spending $600. The 'cheap' leads are eight times more expensive.",
+      "source": "opened-page",
+      "title": "DealMachine: stop measuring leads - measure cost per closed deal",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Cost-per-acquisition ranges as printed in the article. Note: DealMachine names its own product's CPA here - the comparison is the vendor's own.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "For outbound prospecting, options range from paid platforms like Zillow Premier Agent and CINC ($2,500-$8,000 CPA) to signal-based seller outreach methods like Deal Machine OS ($250-$500 CPA for done-for-you appointments).",
+      "snippet": "For outbound prospecting, options range from paid platforms like Zillow Premier Agent and CINC ($2,500-$8,000 CPA) to signal-based seller outreach methods like Deal Machine OS ($250-$500 CPA for done-for-you appointments).",
+      "source": "opened-page",
+      "title": "DealMachine: Zillow/CINC run $2,500-$8,000 per closed deal; signal-based outreach $250-$500",
+      "topic": "lead_gen_cost",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Prospecting math as printed in the article; 'industry conversion data' is not sourced to a named study.",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "dealmachine",
+      "query": "NAR 2025 Member Profile figures via DealMachine article (opened)",
+      "quote": "Industry conversion data suggests that on average, agents need roughly 50-100 contacts to generate one closing from outbound prospecting. If you're making 20 contacts per day, five days a week, that's 100 contacts per week. At a conservative 1-2% conversion rate, that's 1-2 closings per month - which puts you at 12-24 transactions per year, or $85,000-$170,000 in gross income.",
+      "snippet": "Industry conversion data suggests that on average, agents need roughly 50-100 contacts to generate one closing from outbound prospecting. If you're making 20 contacts per day, five days a week, that's 100 contacts per week. At a conservative 1-2% conversion rate, that's 1-2 closings per month - which puts you at 12-24 transactions per year, or $85,000-$170,000 in gross income.",
+      "source": "opened-page",
+      "title": "DealMachine: 50-100 contacts per closing; 20 a day is 1-2 closings a month",
+      "topic": "what_agents_do_instead",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Figures as compiled by Jtek from a NAR survey of 5,400 agents, Ylopo, AmpiFire and REDX - not read from NAR. Jtek is a vendor (CRM/dialer tool); the article pitches its $60/month product.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "jtek",
+      "query": "2026 cost-per-lead benchmarks via Jtek article (opened)",
+      "quote": "The blended 2026 numbers from a NAR survey of 5,400 real estate professionals: $416 per lead on organic channels, $480 on paid channels, and $503 blended across both. That's up 12.3% from the prior year.",
+      "snippet": "The blended 2026 numbers from a NAR survey of 5,400 real estate professionals: $416 per lead on organic channels, $480 on paid channels, and $503 blended across both. That's up 12.3% from the prior year.",
+      "source": "opened-page",
+      "title": "Jtek: blended cost per lead $503 in 2026, up 12.3%",
+      "topic": "lead_gen_cost",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Channel costs as compiled by Jtek from NAR, AmpiFire, Ylopo and Sierra Interactive - not read from those sources.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "jtek",
+      "query": "2026 cost-per-lead benchmarks via Jtek article (opened)",
+      "quote": "Facebook ads, $26, Google Search ads, $53-$66, Realtor.com Connections+, $165. Zillow Premier Agent (non-metro) $139. Zillow Premier Agent (major metro) $223. Luxury LA, SF, and NYC ZIPs report $800-$2,500 per lead.",
+      "snippet": "Facebook ads, $26, Google Search ads, $53-$66, Realtor.com Connections+, $165. Zillow Premier Agent (non-metro) $139. Zillow Premier Agent (major metro) $223. Luxury LA, SF, and NYC ZIPs report $800-$2,500 per lead.",
+      "source": "opened-page",
+      "title": "Jtek: channel costs - Facebook $26, Google $53-$66, Realtor.com $165, Zillow $139/$223",
+      "topic": "lead_gen_cost",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Worked example using the article's 2026 benchmarks; conversion rates as compiled by Jtek.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "jtek",
+      "query": "2026 cost-per-lead benchmarks via Jtek article (opened)",
+      "quote": "Facebook: $26 CPL x ~1 in 35 closes (2.8% conversion) = ~$910 per closed deal. Google Search: $60 CPL x ~1 in 25 closes (4% conversion) = ~$1,500 per closed deal. Zillow major metro: $223 CPL x ~1 in 14 closes (7% conversion) = ~$3,120 per closed deal. Sphere nurture: ~$0 CPL x ~1 in 5 closes (20% conversion) = ~$0 per closed deal beyond your CRM cost.",
+      "snippet": "Facebook: $26 CPL x ~1 in 35 closes (2.8% conversion) = ~$910 per closed deal. Google Search: $60 CPL x ~1 in 25 closes (4% conversion) = ~$1,500 per closed deal. Zillow major metro: $223 CPL x ~1 in 14 closes (7% conversion) = ~$3,120 per closed deal. Sphere nurture: ~$0 CPL x ~1 in 5 closes (20% conversion) = ~$0 per closed deal beyond your CRM cost.",
+      "source": "opened-page",
+      "title": "Jtek: cost per closed deal - Facebook ~$910, Google ~$1,500, Zillow metro ~$3,120, sphere ~$0",
+      "topic": "lead_gen_cost",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Conversion ranges as compiled by Jtek; the portal range appears in the article's FAQ.",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "jtek",
+      "query": "2026 cost-per-lead benchmarks via Jtek article (opened)",
+      "quote": "Sphere / referrals: Effectively free at acquisition. Convert at 15-25%. The cheapest closed deal in the business. Referrals and sphere convert at 15-25% vs portals at 0.4-1.2%.",
+      "snippet": "Sphere / referrals: Effectively free at acquisition. Convert at 15-25%. The cheapest closed deal in the business. Referrals and sphere convert at 15-25% vs portals at 0.4-1.2%.",
+      "source": "opened-page",
+      "title": "Jtek: sphere and referrals convert at 15-25%, portals at 0.4-1.2%",
+      "topic": "what_agents_do_instead",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Rule of thumb as printed in the article; not a measured figure.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "jtek",
+      "query": "2026 cost-per-lead benchmarks via Jtek article (opened)",
+      "quote": "The industry rule of thumb is 10% of gross commission income. So a $120K GCI agent should budget around $1,000/month for lead gen. That's both the floor for any meaningful online campaign and the ceiling for staying profitable.",
+      "snippet": "The industry rule of thumb is 10% of gross commission income. So a $120K GCI agent should budget around $1,000/month for lead gen. That's both the floor for any meaningful online campaign and the ceiling for staying profitable.",
+      "source": "opened-page",
+      "title": "Jtek: budget 10% of GCI; $1,500 a month is the floor for paid lead gen",
+      "topic": "lead_gen_cost",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Response-time figures as printed in the article; the 47-hour average is not sourced to a named study in the article.",
+      "matched_topics": [
+        "follow_up_dies"
+      ],
+      "page_kind": "article",
+      "platform": "jtek",
+      "query": "2026 cost-per-lead benchmarks via Jtek article (opened)",
+      "quote": "A lead you pay $223 for and don't respond to inside 5 minutes is effectively a $223 lead with 0% conversion. Most agents take 47 hours on average. By minute 6, the lead has called the next agent on the Zillow rotation.",
+      "snippet": "A lead you pay $223 for and don't respond to inside 5 minutes is effectively a $223 lead with 0% conversion. Most agents take 47 hours on average. By minute 6, the lead has called the next agent on the Zillow rotation.",
+      "source": "opened-page",
+      "title": "Jtek: most agents take 47 hours to respond; by minute 6 the lead called the next agent",
+      "topic": "follow_up_dies",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Tool-stack cost as printed in the article; Jtek sells a consolidated tool and pitches it as the fix.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "article",
+      "platform": "jtek",
+      "query": "2026 cost-per-lead benchmarks via Jtek article (opened)",
+      "quote": "The average solo agent is paying for a CRM, a dialer, an email tool, a calendar, and a link-in-bio: five separate subscriptions adding up to $200-$400/month. That's $2,400-$4,800 a year that should be in your ad account.",
+      "snippet": "The average solo agent is paying for a CRM, a dialer, an email tool, a calendar, and a link-in-bio: five separate subscriptions adding up to $200-$400/month. That's $2,400-$4,800 a year that should be in your ad account.",
+      "source": "opened-page",
+      "title": "Jtek: the average solo agent pays $200-$400 a month for five separate tools",
+      "topic": "lead_gen_cost",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Subreddit rules as read by subredditmarketing on 7 November 2026. The site is a Reddit-marketing agency (vendor).",
+      "matched_topics": [
+        "social_no_leads"
+      ],
+      "page_kind": "article",
+      "platform": "subredditmarketing",
+      "query": "real-estate subreddit rules via subredditmarketing guide (opened)",
+      "quote": "r/RealEstate (2,524,159 members): 'NO PROMOTION, MARKETING, SOLICITING, ADVERTISING or AMAs', plus no lead generation or market research.",
+      "snippet": "r/RealEstate (2,524,159 members): 'NO PROMOTION, MARKETING, SOLICITING, ADVERTISING or AMAs', plus no lead generation or market research.",
+      "source": "opened-page",
+      "title": "r/RealEstate (2,524,159 members) bans promotion, marketing, lead generation and market research",
+      "topic": "social_no_leads",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Subreddit rules as read by subredditmarketing on 7 November 2026.",
+      "matched_topics": [
+        "social_no_leads"
+      ],
+      "page_kind": "article",
+      "platform": "subredditmarketing",
+      "query": "real-estate subreddit rules via subredditmarketing guide (opened)",
+      "quote": "r/realtors (201,290 members): No post, comment or message promoting a business, product or brand. Technology and vendor discussion is sent to r/RealEstateTechnology. No asking for feedback on new products.",
+      "snippet": "r/realtors (201,290 members): No post, comment or message promoting a business, product or brand. Technology and vendor discussion is sent to r/RealEstateTechnology. No asking for feedback on new products.",
+      "source": "opened-page",
+      "title": "r/realtors (201,290 members) bans promotion and sends vendor talk to r/RealEstateTechnology",
+      "topic": "social_no_leads",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Subreddit rules as read by subredditmarketing on 7 November 2026. The exception among the large real-estate communities.",
+      "matched_topics": [
+        "social_no_leads"
+      ],
+      "page_kind": "article",
+      "platform": "subredditmarketing",
+      "query": "real-estate subreddit rules via subredditmarketing guide (opened)",
+      "quote": "r/RealEstateTechnology (58,164 members) says 'Marketing/Vendor discussions are encouraged' as long as they are not blatantly self-promotional, and asks that you give more than you get.",
+      "snippet": "r/RealEstateTechnology (58,164 members) says 'Marketing/Vendor discussions are encouraged' as long as they are not blatantly self-promotional, and asks that you give more than you get.",
+      "source": "opened-page",
+      "title": "r/RealEstateTechnology (58,164 members) encourages marketing and vendor discussion",
+      "topic": "social_no_leads",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened subredditmarketing article (r/CommercialRealEstate, 28 July 2026, 8 points, 56 comments, u/Dramatic-Comb8525, as printed there). Thread itself not opened; counts not verified against Reddit.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "real-estate subreddit rules via subredditmarketing guide (opened)",
+      "quote": "All of this \"AI Based\" CRM services that have popped up overnight and keep pushing their products here are junk and unneeded cost.",
+      "quoted_in": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "snippet": "All of this \"AI Based\" CRM services that have popped up overnight and keep pushing their products here are junk and unneeded cost.",
+      "source": "opened-article-quote",
+      "title": "r/CommercialRealEstate: 'AI Based' CRM services 'are junk and unneeded cost'",
+      "topic": "lead_gen_cost",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened subredditmarketing article (r/CommercialRealEstate, 6 August 2026, 17 points, 23 comments, u/Strong_Ant3431, as printed there). Thread itself not opened; counts not verified against Reddit.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "real-estate subreddit rules via subredditmarketing guide (opened)",
+      "quote": "The disguised-podcast move works exactly once per person.",
+      "quoted_in": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "snippet": "The disguised-podcast move works exactly once per person.",
+      "source": "opened-article-quote",
+      "title": "r/CommercialRealEstate: 'the disguised-podcast move works exactly once per person'",
+      "topic": "lead_gen_cost",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened subredditmarketing article (r/RealEstateTechnology, 6 April 2026, in reply to a wholesaler post claiming he cut 60% of software costs and increased marketing volume; 20 points, 70 comments, as printed there). The poster's 60% figure is one person's account. Thread itself not opened.",
+      "matched_topics": [
+        "lead_gen_cost"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "real-estate subreddit rules via subredditmarketing guide (opened)",
+      "quote": "So again, what tools specifically?",
+      "quoted_in": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "snippet": "So again, what tools specifically?",
+      "source": "opened-article-quote",
+      "title": "r/RealEstateTechnology: 'So again, what tools specifically?' - vague claims draw pushback",
+      "topic": "lead_gen_cost",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened Amplifiles article (a veteran's reply to a frustrated young agent; the article does not name the subreddit). Thread itself not opened; date unverified. Amplifiles is a real-estate video vendor and the article pitches its own tool.",
+      "matched_topics": [
+        "social_no_leads"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "real-estate social media threads via Amplifiles article (opened)",
+      "quote": "Most real estate agents are making videos no one actually cares about.",
+      "quoted_in": "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+      "snippet": "Most real estate agents are making videos no one actually cares about.",
+      "source": "opened-article-quote",
+      "title": "Reddit: 'most real estate agents are making videos no one actually cares about'",
+      "topic": "social_no_leads",
+      "url": "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Reddit quote as printed in the opened Amplifiles article (a veteran agent in the same thread; subreddit not named). Thread itself not opened; date unverified.",
+      "matched_topics": [
+        "social_no_leads"
+      ],
+      "page_kind": "thread (quoted in article)",
+      "platform": "reddit",
+      "query": "real-estate social media threads via Amplifiles article (opened)",
+      "quote": "Spend time every day giving praise - comment on people's content, reply to their stories, engage with their lives.",
+      "quoted_in": "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+      "snippet": "Spend time every day giving praise - comment on people's content, reply to their stories, engage with their lives.",
+      "source": "opened-article-quote",
+      "title": "Reddit: 'spend time every day giving praise' - engage instead of posting",
+      "topic": "social_no_leads",
+      "url": "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+      "url_missing": false
+    },
+    {
+      "date": "2025-06-18",
+      "evidence": "The article's framing (published 2025-06-18, updated 2026-03-03). Amplifiles is a vendor; the article pitches its own video tool.",
+      "matched_topics": [
+        "social_no_leads"
+      ],
+      "page_kind": "article",
+      "platform": "amplifiles",
+      "query": "real-estate social media threads via Amplifiles article (opened)",
+      "quote": "Social platforms are not where people search for homes - that's what Zillow and Redfin are for.",
+      "snippet": "Social platforms are not where people search for homes - that's what Zillow and Redfin are for.",
+      "source": "opened-page",
+      "title": "Amplifiles: social platforms aren't where people search for homes",
+      "topic": "social_no_leads",
+      "url": "https://www.amplifiles.ai/blog/real-estate-social-media-strategy",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Interview with Haley Ingram, founder and CEO of Coffee & Contracts, a marketing platform for agents - she has a commercial interest in Instagram working. The Close is an industry publication.",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "theclose",
+      "query": "real-estate Instagram leads via The Close interview (opened)",
+      "quote": "I took to Instagram to grow my business, and it actually worked. I was attracting clients, and those clients turned into friends. It felt completely different from paying for leads or cold calling, which never worked for me. Instagram, without question. It's where I built my business, it's where Coffee & Contracts was built, and it's where I see agents getting real traction - not just followers, but actual leads and closed deals, consistently.",
+      "snippet": "I took to Instagram to grow my business, and it actually worked. I was attracting clients, and those clients turned into friends. It felt completely different from paying for leads or cold calling, which never worked for me. Instagram, without question. It's where I built my business, it's where Coffee & Contracts was built, and it's where I see agents getting real traction - not just followers, but actual leads and closed deals, consistently.",
+      "source": "opened-page",
+      "title": "The Close: Haley Ingram built her business on Instagram - 'actual leads and closed deals, consistently'",
+      "topic": "what_agents_do_instead",
+      "url": "https://theclose.com/real-estate-instagram-leads/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Interview with Haley Ingram (Coffee & Contracts). The framework she gives is attract, nurture, convert.",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "theclose",
+      "query": "real-estate Instagram leads via The Close interview (opened)",
+      "quote": "The thing most agents are missing is that they're treating Instagram like a billboard. They're posting market updates, just-sold graphics, just-listed graphics, and spending a lot of energy trying to educate. What they're not doing is posting what locals and relocators actually care about. Nobody wants to follow a business on social media. People are there to be entertained, inspired, and to discover things they're genuinely interested in - not to be marketed to.",
+      "snippet": "The thing most agents are missing is that they're treating Instagram like a billboard. They're posting market updates, just-sold graphics, just-listed graphics, and spending a lot of energy trying to educate. What they're not doing is posting what locals and relocators actually care about. Nobody wants to follow a business on social media. People are there to be entertained, inspired, and to discover things they're genuinely interested in - not to be marketed to.",
+      "source": "opened-page",
+      "title": "The Close: most agents treat Instagram like a billboard - and nobody follows a business to be marketed to",
+      "topic": "what_agents_do_instead",
+      "url": "https://theclose.com/real-estate-instagram-leads/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Interview with Haley Ingram (Coffee & Contracts). A plan, not a measured result.",
+      "matched_topics": [
+        "what_agents_do_instead"
+      ],
+      "page_kind": "article",
+      "platform": "theclose",
+      "query": "real-estate Instagram leads via The Close interview (opened)",
+      "quote": "I would go all in on local content. Local Reels, listing Reels, and collaborations with local businesses. In terms of cadence, I'd aim for local content about three times a week, listing content at least twice a week, and then once a week, some kind of authority and branding content. And every single day, I would show up in Stories.",
+      "snippet": "I would go all in on local content. Local Reels, listing Reels, and collaborations with local businesses. In terms of cadence, I'd aim for local content about three times a week, listing content at least twice a week, and then once a week, some kind of authority and branding content. And every single day, I would show up in Stories.",
+      "source": "opened-page",
+      "title": "The Close: a 90-day Instagram plan - local 3x a week, listings 2x, Stories daily",
+      "topic": "what_agents_do_instead",
+      "url": "https://theclose.com/real-estate-instagram-leads/",
+      "url_missing": false
+    },
+    {
+      "date": "",
+      "evidence": "Search-result summary only; post not opened; dates and upvotes unverified. Figures as shown in the carousel, citing NAR 2025 data (Justin Havre).",
+      "matched_topics": [
+        "social_no_leads"
+      ],
+      "page_kind": "post",
+      "platform": "instagram",
+      "query": "real estate agent Instagram leads NAR 2025 social media (search results)",
+      "quote": "1% found their agent via the agent's social media page, 1% via social crowdsourcing. 43% were referred by a friend, neighbor or relative. SOCIAL MEDIA IS NOT PROSPECTING.",
+      "snippet": "1% found their agent via the agent's social media page, 1% via social crowdsourcing. 43% were referred by a friend, neighbor or relative. SOCIAL MEDIA IS NOT PROSPECTING.",
+      "source": "search-snippet",
+      "title": "Instagram carousel: only 1% found their agent via social media (NAR 2025 data)",
+      "topic": "social_no_leads",
+      "url": "https://www.instagram.com/p/DQ5O9kqjM0a/",
+      "url_missing": false
+    },
+    {
+      "date": "2026-10-20",
+      "evidence": "Search-result summary only; Reel not opened.",
+      "matched_topics": [
+        "social_no_leads"
+      ],
+      "page_kind": "reel",
+      "platform": "facebook",
+      "query": "real estate agent Instagram reels no leads quitting (search results)",
+      "quote": "Agents are posting 10-15 videos, quitting, and asking: where the hell are all the leads?",
+      "snippet": "Agents are posting 10-15 videos, quitting, and asking: where the hell are all the leads?",
+      "source": "search-snippet",
+      "title": "Facebook Reel: agents posting 10-15 videos, quitting, 'where the hell are all the leads?'",
+      "topic": "social_no_leads",
+      "url": "https://www.facebook.com/reel/1016273763589536/",
+      "url_missing": false
+    }
+  ],
+  "facts_checked": 93,
+  "follow_up_searches": [
+    {
+      "topic": "low_conversion",
+      "label": "Open houses eat the weekend, rarely make the client",
+      "item_count": 20,
+      "query": "site:reddit.com open house conversion leads new agent"
+    },
+    {
+      "topic": "sign_in_leaks",
+      "label": "The sign-in sheet is where leads leak",
+      "item_count": 8,
+      "query": "site:reddit.com open house sign in fake name phone number"
+    },
+    {
+      "topic": "follow_up_dies",
+      "label": "The follow-up that never happens",
+      "item_count": 7,
+      "query": "site:reddit.com open house follow up lead lost"
+    },
+    {
+      "topic": "lead_gen_cost",
+      "label": "Paid leads and tools cost more than they return",
+      "item_count": 30,
+      "query": "site:reddit.com real estate Zillow lead cost per lead agent"
+    },
+    {
+      "topic": "social_no_leads",
+      "label": "Social media posts don't turn into clients",
+      "item_count": 8,
+      "query": "site:reddit.com real estate agent Instagram leads no clients"
+    }
+  ],
+  "follow_up_searches_note": "Proposed searches for a follow-up run, derived from the top clusters; not executed in this run.",
+  "gaps": [
+    "No Reddit thread was opened: old.reddit.com is blocked by policy, and www.reddit.com was not attempted as a workaround. All 30 Reddit facts are quotes printed in opened articles (DealMachine x2, myRealPage, HousingWire, NurtureOS, subredditmarketing, Amplifiles); thread dates and upvote counts are as printed there, not verified against Reddit, and no thread URL was captured.",
+    "r/RealEstate IS now confirmed (2,524,159 members; rules read 7 November 2026): it bans promotion, marketing, soliciting, advertising, AMAs, lead generation and market research, so no agent pain-point threads come from it. r/realtors confirmed at 201,290 members; r/RealEstateTechnology confirmed at 58,164 members as the one large community that encourages marketing/vendor discussion.",
+    "r/RealEstateMarketing is confirmed to exist (named as an agent-to-agent marketing-ideas community), but no quotable thread content from it was found; the only search hit mentioning it was a vendor Medium piece with unsourced stats, excluded. r/marketing yielded no real-estate-agent threads.",
+    "NAR 2025 figures in the expansion are secondhand: NurtureOS, DealMachine and Jtek cite the NAR 2025 Member Profile (Jtek also a NAR survey of 5,400 agents). None was read from NAR. The three secondary sources agree on the headline figures ($58,100 median GCI, median 10 deals, 5% zero transactions), but that agreement is not primary verification. The NAR 2024 Profile itself was read on 2026-11-19 (full report PDF, including the Highlights text on p. 50 and Exhibit 3-6), resolving the DealMachine 8% conflict; the 2024 Generational Trends PDF was also read.",
+    "Vendor bias in the expansion: 6 of the 7 newly opened pages are vendor content (DealMachine x2, NurtureOS, Jtek, subredditmarketing, Amplifiles); The Close is an industry publication interviewing a vendor founder (Haley Ingram, Coffee & Contracts). Every number from these pages is tagged to the vendor that printed it, not to NAR.",
+    "DealMachine's NAR attribution (8% / 51% / 29%) is resolved: the Profile's own text gives 51% online, 29% agent, 8% friend/relative/neighbor; the 8% was misassigned to open houses by DealMachine. Open house stays 4% (yard sign/open house sign).",
+    "8 facts are search-result snippets only (ActiveRain, 3 Instagram Reels, 2 Facebook Reels, 1 Instagram carousel, 1 Facebook Reel); those pages were not opened. 2 Reel facts have no captured URL (url_missing) and are kept with title + summary only, never given an invented link.",
+    "Dates are mixed and mostly unverified: the oldest opened source is 2013 (TorontoRealtyBlog) and 2015 (HousingWire); the newest opened page is 18 May 2026 (Jtek) and the newest rules read is 7 November 2026 (subredditmarketing). Reddit quote dates are unknown. Recency was not separated from all-time popularity in this run.",
+    "Exact query strings from the pre-compaction search batches were not preserved in the run notes; coverage records their topics, not invented strings.",
+    "No digital sign-in product evidence is included: this report is evidence only and does not evaluate or recommend any product."
+  ],
+  "label": "example",
+  "method": "Ran the public reddit-pain-point-research skill (skill/SKILL.md) on agent pain points at open houses, then expanded it to marketing and lead generation across broader Reddit communities (r/RealEstate, r/RealEstateMarketing, r/realtors new threads, r/marketing, r/RealEstateTechnology, r/CommercialRealEstate). Browser search plus opened pages: 18 pages opened and read in full (v1's 11 plus the DealMachine lead-tools article, the NurtureOS follow-up-affordability article, the DealMachine '71%' article, Jtek cost benchmarks, the subredditmarketing rules guide, the Amplifiles social-media article, and The Close Instagram interview). No Reddit API, no login. Reddit threads themselves were NOT opened: old.reddit.com is blocked by policy, and www.reddit.com was not attempted as a workaround. Reddit words in this file are quoted in the opened articles listed per fact; thread dates and upvote counts are as printed in those articles, not verified against Reddit.",
+  "mode": "skill-example",
+  "next_searches": [
+    "site:reddit.com open house conversion leads new agent",
+    "site:reddit.com open house sign in fake name phone number",
+    "site:reddit.com open house follow up lead lost",
+    "site:reddit.com real estate Zillow lead cost per lead agent",
+    "site:reddit.com real estate agent Instagram leads no clients"
+  ],
+  "numbers": [
+    {
+      "value": "3%",
+      "kind": "percent",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 3-1: Visited open houses was the first step for 3% of all buyers."
+    },
+    {
+      "value": "4%",
+      "kind": "percent",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 3-4: Yard sign/open house sign, 4% of all buyers found the home they purchased this way."
+    },
+    {
+      "value": "52%",
+      "kind": "percent",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 3-4: Internet, 52% of all buyers found the home they purchased this way."
+    },
+    {
+      "value": "28%",
+      "kind": "percent",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 3-4: Real estate agent, 28% of all buyers found the home they purchased this way."
+    },
+    {
+      "value": "50%",
+      "kind": "percent",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 3-2: Open house used as an information source by 50% of all buyers."
+    },
+    {
+      "value": "88%",
+      "kind": "percent",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 3-2: Real estate agent used as an information source by 88% of all buyers."
+    },
+    {
+      "value": "54%",
+      "kind": "percent",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 7-8: Open house used as a marketing method for 54% of sellers who used an agent."
+    },
+    {
+      "value": "7 homes",
+      "kind": "count",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 3-3: median number of homes viewed, 7."
+    },
+    {
+      "value": "10 weeks",
+      "kind": "count",
+      "url": "https://cdn.nar.realtor/sites/default/files/documents/2024-home-buyers-and-sellers-generational-trends-04-03-2024.pdf",
+      "platform": "nar",
+      "context": "Exhibit 3-3: median weeks searched, 10."
+    },
+    {
+      "value": "4%",
+      "kind": "percent",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "context": "Only 4% of home sales are directly attributed to open house signs and events."
+    },
+    {
+      "value": "50%",
+      "kind": "percent",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "context": "50% of all buyers attended at least one open house during their search."
+    },
+    {
+      "value": "37%",
+      "kind": "percent",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "context": "Roughly 37% of buyers walked through the home they ultimately purchased at an open house before writing an offer."
+    },
+    {
+      "value": "65%",
+      "kind": "percent",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "context": "65% of sellers hosted 1-3 open houses in 2024 (49% in 2018, 44% in 2021)."
+    },
+    {
+      "value": "96%",
+      "kind": "percent",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "context": "96% of buyers used the internet to begin their search."
+    },
+    {
+      "value": "2.6 open houses",
+      "kind": "count",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "context": "Average buyer attends 2.6 open houses."
+    },
+    {
+      "value": "68 upvotes",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "Industry-secret quote, 68 upvotes as printed in the DealMachine article."
+    },
+    {
+      "value": "23 upvotes",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "30 open houses, not a single client, 23 upvotes as printed in the DealMachine article."
+    },
+    {
+      "value": "6 upvotes",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "500 homes sold, only 2 from open houses, 6 upvotes as printed in the DealMachine article."
+    },
+    {
+      "value": "18 upvotes",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "Waste of time but done to appease sellers, 18 upvotes as printed in the DealMachine article."
+    },
+    {
+      "value": "200 comments, 86% upvote",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "Thread: Do Open Houses Sell the House?, as printed in the DealMachine article."
+    },
+    {
+      "value": "39 comments, 91% upvote",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "Thread: Zero Conversion, as printed in the DealMachine article."
+    },
+    {
+      "value": "69 comments",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "Thread: Are Open Houses Even Worth My Time?, as printed in the DealMachine article."
+    },
+    {
+      "value": "72 comments",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "Thread: As a Newbie, Do Open Houses Get Good Yields?, as printed in the DealMachine article."
+    },
+    {
+      "value": "one or two sales per year",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "Roughly one or two sales of the subject property per year (agent quote, DealMachine article)."
+    },
+    {
+      "value": "30 open houses in two years",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "I've done probably 30 open houses in the past two years, maybe more. Not a single client."
+    },
+    {
+      "value": "500 homes, only 2",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "In the 500 homes I've sold, only 2 have sold because the client came to the open house."
+    },
+    {
+      "value": "almost 4 years",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "Waiting for the day I get a client from one. It's been almost 4 years."
+    },
+    {
+      "value": "99%",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "reddit",
+      "context": "99% of the people who come into the open house are not ready to buy (agent quote, DealMachine article)."
+    },
+    {
+      "value": "300+ hours per year",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "context": "The average agent spends 300+ hours per year hosting open houses (DealMachine's own math; no primary source cited)."
+    },
+    {
+      "value": "fewer than 5 clients",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "context": "Converts fewer than 5 clients from the effort (DealMachine's own math; no primary source cited)."
+    },
+    {
+      "value": "25-30% of sales",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "context": "One team tracked 25-30% of sales from open-house activity (DealMachine reporting; team not named)."
+    },
+    {
+      "value": "50% of his leads",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "context": "Agent gets 50% of his leads from answering questions on local Reddit subs (DealMachine reporting)."
+    },
+    {
+      "value": "20+ clients in 12 months",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "context": "20+ clients in 12 months from roughly 30 minutes per day (DealMachine reporting)."
+    },
+    {
+      "value": "~80%",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "context": "~80% of visitors are neighbors, casual lookers, or already represented (DealMachine's own estimate, not a measured figure)."
+    },
+    {
+      "value": "99% chance",
+      "kind": "percent",
+      "url": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "platform": "reddit",
+      "context": "There's probably a 99% chance the people coming to an open house won't buy that house (@therealrealestate)."
+    },
+    {
+      "value": "one solid lead per open house",
+      "kind": "count",
+      "url": "https://myrealpage.com/blog/30-secrets-to-succes-in-real-estate-according-to-realtors-on-reddit/?p=298166",
+      "platform": "reddit",
+      "context": "I probably averaged about one solid lead per open house (@goosetavo2013)."
+    },
+    {
+      "value": "2-3%",
+      "kind": "percent",
+      "url": "https://activerain.com/blogsview/4818192/are-you-ready-to-buy-a-home-or-just-window-shopping-",
+      "platform": "activerain",
+      "context": "Less than 2-3% of homes sell as a result of an open house (Kyle Hiscock, search-result snippet; page not opened)."
+    },
+    {
+      "value": "24 hours",
+      "kind": "time",
+      "url": "https://www.youmaximize.com/blog/open-house-sign-in-sheet",
+      "platform": "youmaximize",
+      "context": "Follow up within 24 hours, same day if possible."
+    },
+    {
+      "value": "within a day",
+      "kind": "time",
+      "url": "https://airlnk.com/real-estate-agents-open-house-leads",
+      "platform": "airlnk",
+      "context": "Follow up within a day, by the channel they chose."
+    },
+    {
+      "value": "160 likes, 8 comments",
+      "kind": "count",
+      "url": "https://www.instagram.com/reel/Dbv7GkTydJx/",
+      "platform": "instagram",
+      "context": "@teainmanrealtor looky-loo Reel, posted 2026-08-07 (search-result snippet)."
+    },
+    {
+      "value": "16 likes, 6 comments",
+      "kind": "count",
+      "url": "https://www.facebook.com/reel/912374448152134/",
+      "platform": "facebook",
+      "context": "Kendra Davis Reel, posted 2026-08-24 (search-result snippet)."
+    },
+    {
+      "value": "6.7/10 to 2.7/10",
+      "kind": "rating",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "platform": "dealmachine",
+      "context": "Zillow lead quality fell from 6.7/10 (2015-2023) to 2.7/10 at triple the price, per an r/realtors commenter quoted in the article."
+    },
+    {
+      "value": "$500",
+      "kind": "money",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "platform": "dealmachine",
+      "context": "Cost per Zillow lead in the commenter's zip code."
+    },
+    {
+      "value": "$5,000-$10,000",
+      "kind": "money",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "platform": "dealmachine",
+      "context": "Cost per closing at $500 a lead, against an average commission around $10,000."
+    },
+    {
+      "value": "$1,500+/month",
+      "kind": "money",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "platform": "dealmachine",
+      "context": "Social ads need $1,500 or more a month before they start to perform, per the article."
+    },
+    {
+      "value": "90 days",
+      "kind": "duration",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "platform": "dealmachine",
+      "context": "Commit to one lead system for at least 90 days, per the most repeated Reddit advice in the article."
+    },
+    {
+      "value": "4-6 open houses a week",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/best-real-estate-lead-tools-reddit-2026",
+      "platform": "dealmachine",
+      "context": "One Reddit commenter said four to six open houses a week launched his career."
+    },
+    {
+      "value": "$27k / $12k",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "First-year agent: 5 transactions, made $27k, kept about $12k after payouts (r/realtors, as printed in the article)."
+    },
+    {
+      "value": "107 comments",
+      "kind": "count",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Comment count on the first-year-agent r/realtors thread, as printed in the article."
+    },
+    {
+      "value": "187 comments / 85 upvotes",
+      "kind": "count",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Dry-spell r/realtors thread: 187 comments; top comment 85 upvotes, as printed in the article."
+    },
+    {
+      "value": "120,000 leads",
+      "kind": "count",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Agent's lead count in Follow Up Boss (r/RealEstateTechnology, as printed in the article)."
+    },
+    {
+      "value": "84 comments",
+      "kind": "count",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Comment count on the 120,000-leads r/RealEstateTechnology thread, as printed in the article."
+    },
+    {
+      "value": "$58,100",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Median agent gross commission income, as reported by NurtureOS citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "$36,600",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Median agent net income after taxes and expenses, as reported by NurtureOS citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "$8,010",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Median annual business expense budget, as reported by NurtureOS citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "$8,100 / 3 transactions",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Agents with 0-2 years of experience: median gross income $8,100, 3 transactions, as reported by NurtureOS citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "3.5 transactions/yr",
+      "kind": "count",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Bottom 80% of agents average 3.5 transactions per year, as reported by NurtureOS citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "65%",
+      "kind": "percent",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Top 20% of agents do 65% of the transactions, as reported by NurtureOS citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "24% / 19%",
+      "kind": "percent",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "24% of agents spend more than $500/month on technology; 19% more than $500/month on lead generation, as reported by NurtureOS citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "$165/month",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Fello.ai starter plan; 24% of a first-year agent's $8,100 gross, per the article's math."
+    },
+    {
+      "value": "$55,000-$65,000/year",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "In-house ISA total compensation; $75,000-$85,000 in year one with recruiting, training and ramp, as reported by NurtureOS."
+    },
+    {
+      "value": "$720-$1,988/month",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Virtual ISA services, as reported by NurtureOS."
+    },
+    {
+      "value": "$165-$999/month",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Automation tools, as reported by NurtureOS."
+    },
+    {
+      "value": "0-1% vs 5-7%",
+      "kind": "percent",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Lead conversion without ISA support vs with ISA support, as reported by NurtureOS."
+    },
+    {
+      "value": "$150,000+ GCI",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "GCI threshold at which professional follow-up solutions are priced, as reported by NurtureOS."
+    },
+    {
+      "value": "$499/month",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Structurely subscription, as printed in the article."
+    },
+    {
+      "value": "$1m+ revenue",
+      "kind": "money",
+      "url": "https://www.nurtureos.io/blog/cant-afford-lead-nurture/",
+      "platform": "nurtureos",
+      "context": "Agent's estimate of added yearly revenue if the 120,000-lead database were properly engaged (r/RealEstateTechnology, as printed)."
+    },
+    {
+      "value": "$408,800",
+      "kind": "money",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Median US home price, attributed by the article to NAR, March 2026."
+    },
+    {
+      "value": "$10,220 / $7,154",
+      "kind": "money",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "At 2.5% commission, roughly $10,220 per side; about $7,154 after a 70/30 brokerage split."
+    },
+    {
+      "value": "~6 / ~14 / ~28 transactions",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Transactions per year to earn $58,100 / $100,000 / $200,000 at the article's median-deal math."
+    },
+    {
+      "value": "50-100 contacts",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Contacts needed per closing from outbound prospecting, per 'industry conversion data' in the article (study not named)."
+    },
+    {
+      "value": "20 contacts/day / 1-2% / 1-2 closings a month",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Prospecting math in the article: 20 contacts a day, 5 days a week, at 1-2% conversion."
+    },
+    {
+      "value": "5% / 10 deals",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "NAR 2025 Member Profile as reported by DealMachine: 5% reported zero transactions in 2024; median agent closed 10 deals."
+    },
+    {
+      "value": "1.53 million to ~1.2 million / 325,000+",
+      "kind": "count",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "NAR membership projection as reported by DealMachine, attributed to NAR leadership."
+    },
+    {
+      "value": "49% / 37% / 28%",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Relitix first-year failure rates as reported by DealMachine: 49% of 2022 first closers closed nothing in 2023; 37% for 2021 starters; 28% average 2017-2020."
+    },
+    {
+      "value": ">50% / >65%",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Two-year attrition for 2021 starters exceeded 50%; projected two-year failure rate for 2022 starters could top 65%, as reported by DealMachine citing Relitix."
+    },
+    {
+      "value": "$92,500 / $7,500",
+      "kind": "money",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Median income: 16+ years $92,500; two years or less $7,500 net, as reported by DealMachine citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "57 / 17% to 11% / 44%",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Median member age 57 (was 55); under-40 share 17% to 11%; 60+ now 44% (was 35%), as reported by DealMachine citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "60% / 26% / 41%",
+      "kind": "percent",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "60% prospect daily but only 26% more than an hour a day; repeat (20%) plus referrals (21%) = 41% of business, as reported by DealMachine citing NAR 2025 Member Profile."
+    },
+    {
+      "value": "$2,500-$8,000 / $250-$500 CPA",
+      "kind": "money",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "Cost per closed deal: Zillow Premier Agent and CINC $2,500-$8,000; signal-based seller outreach $250-$500 (DealMachine names its own product here)."
+    },
+    {
+      "value": "$50 x 100 = $5,000 vs $200 x 1-in-3 = $600",
+      "kind": "money",
+      "url": "https://www.dealmachineos.com/resources/why-71-of-real-estate-agents-sold-zero-homes-last-year--and-what-the-other-29-are-doing-differently",
+      "platform": "dealmachine",
+      "context": "The article's worked cost-per-closed-deal example."
+    },
+    {
+      "value": "$503 / $416 / $480 / 12.3%",
+      "kind": "money",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Blended cost per lead $503 ($416 organic, $480 paid), up 12.3% year over year, as compiled by Jtek from a NAR survey of 5,400 agents."
+    },
+    {
+      "value": "$26 / $53-$66 / $165 / $139 / $223",
+      "kind": "money",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Cost per lead by channel: Facebook $26, Google $53-$66, Realtor.com $165, Zillow non-metro $139, Zillow major metro $223, as compiled by Jtek."
+    },
+    {
+      "value": "$800-$2,500",
+      "kind": "money",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Zillow leads in luxury LA, SF and NYC ZIPs, as compiled by Jtek."
+    },
+    {
+      "value": "1-4% / 2-5% / 1.5-2.5% / 3-5% / 5-9%",
+      "kind": "percent",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Conversion by channel: Facebook 1-4%, Google 2-5%, Realtor.com shared 1.5-2.5% (exclusive 3-5%), Zillow 5-9% for top performers, as compiled by Jtek."
+    },
+    {
+      "value": "~$910 / ~$1,500 / ~$3,120 / ~$0",
+      "kind": "money",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Cost per closed deal: Facebook ~$910, Google ~$1,500, Zillow major metro ~$3,120, sphere ~$0, per Jtek's worked example."
+    },
+    {
+      "value": "15-25% vs 0.4-1.2%",
+      "kind": "percent",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Sphere/referral conversion 15-25% vs portal leads 0.4-1.2%, as compiled by Jtek."
+    },
+    {
+      "value": "10% of GCI / $1,000/month",
+      "kind": "money",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Lead-gen budget rule of thumb: 10% of gross commission income; about $1,000/month for a $120K GCI agent."
+    },
+    {
+      "value": "$200-$400/month",
+      "kind": "money",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Average solo agent's five-tool stack (CRM, dialer, email, calendar, link-in-bio), as printed by Jtek."
+    },
+    {
+      "value": "47 hours / 5 minutes / minute 6",
+      "kind": "duration",
+      "url": "https://jtek.app/blog-average-cost-per-real-estate-lead",
+      "platform": "jtek",
+      "context": "Most agents take 47 hours on average to respond; a lead not answered inside 5 minutes is effectively 0% conversion; by minute 6 the lead called the next agent, per Jtek."
+    },
+    {
+      "value": "2,524,159 / 201,290 / 58,164 / 2,192 / 1,845 / 1,977,252",
+      "kind": "count",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "platform": "subredditmarketing",
+      "context": "Member counts as read by subredditmarketing on 7 November 2026: r/RealEstate, r/realtors, r/RealEstateTechnology, r/PropTech, r/PptyMgmtSoftware, r/realestateinvesting."
+    },
+    {
+      "value": "8 points, 56 comments / 17 points, 23 comments / 20 points, 70 comments",
+      "kind": "count",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "platform": "subredditmarketing",
+      "context": "Thread metadata as printed in the subredditmarketing article: CRM thread, disguised-podcast thread, wholesaler thread."
+    },
+    {
+      "value": "1% / 1% / 43%",
+      "kind": "percent",
+      "url": "https://www.instagram.com/p/DQ5O9kqjM0a/",
+      "platform": "instagram",
+      "context": "NAR 2025 data as shown in the Instagram carousel (search-result summary; post not opened): 1% found their agent via the agent's social media page, 1% via social crowdsourcing, 43% referred by a friend, neighbor or relative."
+    },
+    {
+      "value": "10-15 videos",
+      "kind": "count",
+      "url": "https://www.facebook.com/reel/1016273763589536/",
+      "platform": "facebook",
+      "context": "Agents posting 10-15 videos and quitting (search-result summary; Reel not opened)."
+    },
+    {
+      "value": "3x / 2x / 1x a week + Stories daily",
+      "kind": "count",
+      "url": "https://theclose.com/real-estate-instagram-leads/",
+      "platform": "theclose",
+      "context": "Haley Ingram's 90-day plan cadence: local content about three times a week, listing content at least twice a week, authority/branding once a week, Stories every day."
+    }
+  ],
+  "numbers_quarantined_unusable": [
+    {
+      "value": "8% found home through an open house / 51% online / 29% through agent",
+      "url": "https://www.dealmachineos.com/resources/your-open-house-isnt-a-lead-strategy-its-a-coping-mechanism",
+      "platform": "dealmachine",
+      "reason": "RESOLVED 2026-11-19: the NAR 2024 Profile itself was checked (full report PDF; Highlights text p. 50). It says 51% online, 29% through an agent, and 8% through a friend, relative, or neighbor — DealMachine took the 51% and 29% right but assigned the 8% to open houses; the 8% belongs to friend/relative/neighbor. The open-house figure in the Profile is 4% (yard sign/open house sign), per the Generational Trends PDF Exhibit 3-4 from the same survey (which rounds the other two as 52% internet / 28% agent). Do NOT use \"8% via open house\" — it is a misattribution."
+    },
+    {
+      "value": "~20% faster sales for listings with open houses",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "reason": "Carried in the outline draft as attributed to the Neuhaus guide; the passage was not re-read in this run. Do NOT use until checked against the guide."
+    },
+    {
+      "value": "Collecting 20 sign-ins and never contacting any of them wastes the entire effort",
+      "url": "https://neuhausre.com/guides/open-house-guide-real-estate/",
+      "platform": "neuhaus",
+      "reason": "Carried in the outline draft as attributed to the Neuhaus guide; the passage was not re-read in this run. Excluded from the fact list. Do NOT use until checked against the guide."
+    },
+    {
+      "value": "78% of agents (from 'a poll of 1,200 agents')",
+      "url": "https://medium.com/@autoreel/real-estate-marketing-strategies-that-actually-work-in-2026",
+      "platform": "medium",
+      "reason": "Unsourced poll figure in a vendor Medium piece promoting the Autoreel app; no poll source named. Found while searching r/RealEstateMarketing. Do NOT use."
+    },
+    {
+      "value": "87% of new agents fail within 5 years",
+      "url": "https://leadhuntai.com/blog/real-estate-lead-generation-statistics",
+      "platform": "leadhuntai",
+      "reason": "No source cited in the vendor guide. Found while searching lead-gen benchmarks. Do NOT use."
+    },
+    {
+      "value": "Cut 60% of software costs and increased marketing volume",
+      "url": "https://www.subredditmarketing.com/use-cases/reddit-marketing-for-real-estate",
+      "platform": "subredditmarketing",
+      "reason": "One wholesaler's own account in a Reddit post, as printed in the subredditmarketing article; the article itself flags it as one person's account and the reply asks for specifics. Do NOT use as a measured figure."
+    }
+  ],
+  "numbers_rule": "Only numbers in this list, with their source URLs, may be used in later writing. Any other number must be verified first.",
+  "outline_draft": [
+    "Open houses eat the weekend, rarely make the client (low conversion / time sink)",
+    "The sign-in sheet is where leads leak (fake numbers, illegible paper, privacy)",
+    "The follow-up that never happens (same-day or it dies)",
+    "What agents do instead / counter-evidence (practice, seller appeasement, online channels)",
+    "Paid leads and tools cost more than they return (lead_gen_cost)",
+    "Social media posts don't turn into clients (social_no_leads)"
+  ],
+  "platform_counts": {
+    "activerain": 1,
+    "airlnk": 3,
+    "amplifiles": 1,
+    "dealmachine": 18,
+    "facebook": 3,
+    "instagram": 4,
+    "joinbauergroup": 1,
+    "jtek": 7,
+    "konahmedia": 1,
+    "nar": 5,
+    "neuhaus": 3,
+    "nurtureos": 4,
+    "reallyo": 2,
+    "reddit": 30,
+    "subredditmarketing": 3,
+    "theclose": 3,
+    "torontorealtyblog": 1,
+    "youmaximize": 3
+  },
+  "safety_note": "General information only, not medical or legal advice. No health or safety claims are made in this report.",
+  "topic": "agent pain points at open houses and in marketing/lead generation, US real-estate agents, English public sources"
+}
